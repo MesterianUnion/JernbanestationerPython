@@ -1,0 +1,1053 @@
+station,stationLabel,stationID,transportNetworkLabel,address,linjerLabel,connectingLineLabel,openingDate,geoLatitude,geoLongitude
+"http://www.wikidata.org/entity/Q578784,Lyngby Station,8600675,S-tog,""Jernbanepladsen 47, 2800 Lyngby"",Linje A,Nordbanen,1863-01-01T00:00:00Z,55.768333,12.502778"
+"http://www.wikidata.org/entity/Q578784,Lyngby Station,8600675,S-tog,""Jernbanepladsen 47, 2800 Lyngby"",Linje E,Nordbanen,1863-01-01T00:00:00Z,55.768333,12.502778"
+"http://www.wikidata.org/entity/Q593600,Vordingborg Station,8600816,,""Banegårdspladsen 4, 4760 Vordingborg"",Regionaltog,Sydbanen,1870-10-04T00:00:00Z,55.0119,11.8993"
+"http://www.wikidata.org/entity/Q593600,Vordingborg Station,8600816,,""Banegårdspladsen 4, 4760 Vordingborg"",Regionaltog,Kalvehavebanen,1870-10-04T00:00:00Z,55.0119,11.8993"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCity,Horsens Vestbaner,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCityLyn,Horsens Vestbaner,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",Regionaltog,Horsens Vestbaner,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCity,Horsens-Bryrup-Silkeborg Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCityLyn,Horsens-Bryrup-Silkeborg Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",Regionaltog,Horsens-Bryrup-Silkeborg Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCity,Horsens-Odder Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCityLyn,Horsens-Odder Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",Regionaltog,Horsens-Odder Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCity,Fredericia-Aarhus-banen,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCityLyn,Fredericia-Aarhus-banen,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",Regionaltog,Fredericia-Aarhus-banen,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCity,Horsens-Juelsminde Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",InterCityLyn,Horsens-Juelsminde Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q613455,Horsens Station,8600066,,""Andreas Steenbergs Plads 1, 8700 Horsens"",Regionaltog,Horsens-Juelsminde Jernbane,1868-01-01T00:00:00Z,55.8626,9.8356"
+"http://www.wikidata.org/entity/Q616388,Ørestad Station,8600856,,""Ørestads Boulevard 91, 2300 København S"",Øresundstog,Øresundsbanen,2000-01-01T00:00:00Z,55.628406,12.579508"
+"http://www.wikidata.org/entity/Q632119,Svendborg Station,8600551,,""Klosterplads 10, 5700 Svendborg"",Regionaltog,Svendborgbanen,1876-01-01T00:00:00Z,55.05981,10.61237"
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,InterCity,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje H,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje B,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje Bx,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje A,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje C,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje E,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Øresundstogtrafikken,Frihavnsbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,InterCity,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje H,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje B,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje Bx,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje A,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje C,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje E,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Øresundstogtrafikken,Boulevardbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,InterCity,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje H,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje B,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje Bx,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje A,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje C,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje E,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Øresundstogtrafikken,Nordbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,InterCity,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje H,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje B,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje Bx,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje A,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje C,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Linje E,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+http://www.wikidata.org/entity/Q635929,Østerport Station,8600650,S-tog,,Øresundstogtrafikken,Kystbanen,1897-08-02T00:00:00Z,55.692222,12.5875
+"http://www.wikidata.org/entity/Q673732,Tommerup Station,8600509,,""Stationsvej 17, 5690 Tommerup"",Regionaltog,Den fynske hovedbane,1876-07-12T00:00:00Z,55.34965,10.1825"
+"http://www.wikidata.org/entity/Q673732,Tommerup Station,8600509,,""Stationsvej 17, 5690 Tommerup"",Regionaltog,Assensbanen,1876-07-12T00:00:00Z,55.34965,10.1825"
+http://www.wikidata.org/entity/Q686519,Nordhavn Station,8600653,S-tog,,Linje B,Nordbanen,1934-01-01T00:00:00Z,55.705278,12.590833
+http://www.wikidata.org/entity/Q686519,Nordhavn Station,8600653,S-tog,,Linje Bx,Nordbanen,1934-01-01T00:00:00Z,55.705278,12.590833
+http://www.wikidata.org/entity/Q686519,Nordhavn Station,8600653,S-tog,,Linje A,Nordbanen,1934-01-01T00:00:00Z,55.705278,12.590833
+http://www.wikidata.org/entity/Q686519,Nordhavn Station,8600653,S-tog,,Linje C,Nordbanen,1934-01-01T00:00:00Z,55.705278,12.590833
+http://www.wikidata.org/entity/Q686519,Nordhavn Station,8600653,S-tog,,Linje E,Nordbanen,1934-01-01T00:00:00Z,55.705278,12.590833
+"http://www.wikidata.org/entity/Q801030,Korsør Station,8600601,,""Storebæltsvej 2, 4220 Korsør"",InterCity,Vestbanen,1997-01-01T00:00:00Z,55.3571,11.1349"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",InterCity,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje H,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje B,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje Bx,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje A,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje C,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje E,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Øresundstogtrafikken,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Regionaltog,Boulevardbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",InterCity,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje H,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje B,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje Bx,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje A,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje C,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje E,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Øresundstogtrafikken,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Regionaltog,Nordbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",InterCity,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje H,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje B,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje Bx,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje A,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje C,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Linje E,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Øresundstogtrafikken,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801282,Nørreport Station,8600646,S-tog,""Nørre Voldgade 13, 1358 København K"",Regionaltog,Kystbanen,1918-07-01T00:00:00Z,55.683333,12.571667"
+"http://www.wikidata.org/entity/Q801448,Slagelse Station,8600605,,""Sønder Stationsvej 28A, 4200 Slagelse"",InterCity,Vestbanen,1856-01-01T00:00:00Z,55.4074,11.3484"
+"http://www.wikidata.org/entity/Q801448,Slagelse Station,8600605,,""Sønder Stationsvej 28A, 4200 Slagelse"",InterCityLyn,Vestbanen,1856-01-01T00:00:00Z,55.4074,11.3484"
+"http://www.wikidata.org/entity/Q801448,Slagelse Station,8600605,,""Sønder Stationsvej 28A, 4200 Slagelse"",Regionaltog,Vestbanen,1856-01-01T00:00:00Z,55.4074,11.3484"
+"http://www.wikidata.org/entity/Q801448,Slagelse Station,8600605,,""Sønder Stationsvej 28A, 4200 Slagelse"",InterCity,Tølløsebanen,1856-01-01T00:00:00Z,55.4074,11.3484"
+"http://www.wikidata.org/entity/Q801448,Slagelse Station,8600605,,""Sønder Stationsvej 28A, 4200 Slagelse"",InterCityLyn,Tølløsebanen,1856-01-01T00:00:00Z,55.4074,11.3484"
+"http://www.wikidata.org/entity/Q801448,Slagelse Station,8600605,,""Sønder Stationsvej 28A, 4200 Slagelse"",Regionaltog,Tølløsebanen,1856-01-01T00:00:00Z,55.4074,11.3484"
+"http://www.wikidata.org/entity/Q979413,Silkeborg Station,8600266,,""Drewsensvej 5, 8600 Silkeborg"",Regionaltog,Skanderborg-Skjern-banen,1871-05-02T00:00:00Z,56.16417,9.54411"
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,X 2000,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCity,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje H,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje B,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje Bx,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje A,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje C,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje E,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCityLyn,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Øresundstogtrafikken,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Regionaltog,Vestbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,X 2000,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCity,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje H,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje B,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje Bx,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje A,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje C,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje E,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCityLyn,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Øresundstogtrafikken,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Regionaltog,Øresundsbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,X 2000,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCity,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje H,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje B,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje Bx,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje A,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje C,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje E,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCityLyn,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Øresundstogtrafikken,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Regionaltog,Boulevardbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,X 2000,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCity,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje H,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje B,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje Bx,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje A,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje C,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje E,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCityLyn,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Øresundstogtrafikken,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Regionaltog,Nordbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,X 2000,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCity,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje H,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje B,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje Bx,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje A,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje C,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje E,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCityLyn,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Øresundstogtrafikken,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Regionaltog,Køge Bugt-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,X 2000,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCity,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje H,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje B,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje Bx,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje A,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje C,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje E,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCityLyn,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Øresundstogtrafikken,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Regionaltog,Kystbanen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,X 2000,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCity,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje H,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje B,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje Bx,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje A,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje C,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Linje E,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,InterCityLyn,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Øresundstogtrafikken,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+http://www.wikidata.org/entity/Q1495052,Københavns Hovedbanegård,8600626,S-tog,,Regionaltog,Høje Taastrup-banen,1911-12-01T00:00:00Z,55.672778,12.564444
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje B,Frihavnsbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje Bx,Frihavnsbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje A,Frihavnsbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje C,Frihavnsbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje E,Frihavnsbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje B,Hareskovbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje Bx,Hareskovbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje A,Hareskovbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje C,Hareskovbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje E,Hareskovbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje B,Nordbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje Bx,Nordbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje A,Nordbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje C,Nordbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1810737,Svanemøllen Station,8600654,S-tog,""Østerbrogade 246, 2100 København Ø"",Linje E,Nordbanen,1934-01-01T00:00:00Z,55.715556,12.578056"
+"http://www.wikidata.org/entity/Q1823112,Vamdrup Station,8600087,,""Banegårdspladsen 4, 6580 Vamdrup"",InterCity,Vamdrup-Padborg-banen,1864-01-01T00:00:00Z,55.42811,9.28645"
+"http://www.wikidata.org/entity/Q1823112,Vamdrup Station,8600087,,""Banegårdspladsen 4, 6580 Vamdrup"",InterCityLyn,Vamdrup-Padborg-banen,1864-01-01T00:00:00Z,55.42811,9.28645"
+"http://www.wikidata.org/entity/Q1823112,Vamdrup Station,8600087,,""Banegårdspladsen 4, 6580 Vamdrup"",InterCity,Fredericia-Vamdrup-banen,1864-01-01T00:00:00Z,55.42811,9.28645"
+"http://www.wikidata.org/entity/Q1823112,Vamdrup Station,8600087,,""Banegårdspladsen 4, 6580 Vamdrup"",InterCityLyn,Fredericia-Vamdrup-banen,1864-01-01T00:00:00Z,55.42811,9.28645"
+"http://www.wikidata.org/entity/Q1825718,Snekkersten Station,8600668,,""Nørrevej 93, 3070 Snekkersten"",Øresundstogtrafikken,Lille Nord,1891-01-01T00:00:00Z,56.009444,12.583611"
+"http://www.wikidata.org/entity/Q1825718,Snekkersten Station,8600668,,""Nørrevej 93, 3070 Snekkersten"",Øresundstogtrafikken,Kystbanen,1891-01-01T00:00:00Z,56.009444,12.583611"
+"http://www.wikidata.org/entity/Q1826306,Virum Station,8600676,S-tog,""Frederiksdalsvej 64-66, 2830 Virum"",Linje E,Nordbanen,1928-01-01T00:00:00Z,55.796111,12.473056"
+"http://www.wikidata.org/entity/Q1828988,Bispebjerg Station,8600739,S-tog,""Tagensvej 147, 2400 København NV"",Linje F,Ringbanen,1996-06-29T00:00:00Z,55.706389,12.541667"
+"http://www.wikidata.org/entity/Q1863289,Taastrup Station,8600620,S-tog,""Selsmosevej 5, 2630 Taastrup"",Linje B,Høje Taastrup-banen,1847-06-26T00:00:00Z,55.6525,12.301944"
+"http://www.wikidata.org/entity/Q1863289,Taastrup Station,8600620,S-tog,""Selsmosevej 5, 2630 Taastrup"",Linje Bx,Høje Taastrup-banen,1847-06-26T00:00:00Z,55.6525,12.301944"
+"http://www.wikidata.org/entity/Q1900098,Bagsværd Station,8600692,S-tog,""Bagsværd Hovedgade 142, 2880 Bagsværd"",Linje B,Hareskovbanen,1906-04-20T00:00:00Z,55.761667,12.454444"
+"http://www.wikidata.org/entity/Q1909224,Rødovre Station,8600680,S-tog,""Rødovre Stationsvej 1, 2610 Rødovre"",Linje B,Høje Taastrup-banen,1964-04-24T00:00:00Z,55.665,12.459"
+http://www.wikidata.org/entity/Q1911746,Vallensbæk Station,8600767,S-tog,,Linje A,Køge Bugt-banen,1972-10-01T00:00:00Z,55.623333,12.386667
+http://www.wikidata.org/entity/Q1911746,Vallensbæk Station,8600767,Hovedstadens Letbane,,Linje A,Køge Bugt-banen,1972-10-01T00:00:00Z,55.623333,12.386667
+http://www.wikidata.org/entity/Q1911746,Vallensbæk Station,8600767,S-tog,,Linje A,Hovedstadens Letbane,1972-10-01T00:00:00Z,55.623333,12.386667
+http://www.wikidata.org/entity/Q1911746,Vallensbæk Station,8600767,Hovedstadens Letbane,,Linje A,Hovedstadens Letbane,1972-10-01T00:00:00Z,55.623333,12.386667
+"http://www.wikidata.org/entity/Q1924055,Tårnby Station,8600857,,""Englandsvej 320, 2770 Kastrup"",Øresundstogtrafikken,Øresundsbanen,1998-09-27T00:00:00Z,55.6298,12.6022"
+"http://www.wikidata.org/entity/Q1934441,Vemb Station,8600196,,""Stationsvej 6, 7570 Vemb"",privatbane,Lemvigbanen,1875-03-31T00:00:00Z,56.34368,8.34558"
+"http://www.wikidata.org/entity/Q1934441,Vemb Station,8600196,,""Stationsvej 6, 7570 Vemb"",Regionaltog,Lemvigbanen,1875-03-31T00:00:00Z,56.34368,8.34558"
+"http://www.wikidata.org/entity/Q1934441,Vemb Station,8600196,,""Stationsvej 6, 7570 Vemb"",privatbane,Den vestjyske længdebane,1875-03-31T00:00:00Z,56.34368,8.34558"
+"http://www.wikidata.org/entity/Q1934441,Vemb Station,8600196,,""Stationsvej 6, 7570 Vemb"",Regionaltog,Den vestjyske længdebane,1875-03-31T00:00:00Z,56.34368,8.34558"
+"http://www.wikidata.org/entity/Q1936150,Ringkøbing Station,8600200,,""Nørredige 3A, 6950 Ringkøbing"",Regionaltog,Ringkøbing-Ørnhøj-Holstebro Jernbane,1875-03-31T00:00:00Z,56.0928,8.25056"
+"http://www.wikidata.org/entity/Q1936150,Ringkøbing Station,8600200,,""Nørredige 3A, 6950 Ringkøbing"",Regionaltog,Den vestjyske længdebane,1875-03-31T00:00:00Z,56.0928,8.25056"
+"http://www.wikidata.org/entity/Q1937514,Maribo Station,8602619,,""Banegårdspladsen 5, 4930 Maribo"",,Lollandsbanen,1874-07-01T00:00:00Z,54.7768,11.5019"
+"http://www.wikidata.org/entity/Q1943022,Grøndal Station,8600641,S-tog,""Godthåbsvej 173, 2720 Vanløse"",Linje F,Ringbanen,1930-05-15T00:00:00Z,55.690556,12.515556"
+"http://www.wikidata.org/entity/Q1953807,Jægersborg Station,8600674,S-tog,""Ørnegårdsvej 20, 2820 Gentofte"",Linje E,Nordbanen,1936-01-01T00:00:00Z,55.761667,12.521667"
+"http://www.wikidata.org/entity/Q1953807,Jægersborg Station,8600674,S-tog,""Ørnegårdsvej 20, 2820 Gentofte"",Lokaltog,Nordbanen,1936-01-01T00:00:00Z,55.761667,12.521667"
+"http://www.wikidata.org/entity/Q1953807,Jægersborg Station,8600674,S-tog,""Ørnegårdsvej 20, 2820 Gentofte"",Linje E,Nærumbanen,1936-01-01T00:00:00Z,55.761667,12.521667"
+"http://www.wikidata.org/entity/Q1953807,Jægersborg Station,8600674,S-tog,""Ørnegårdsvej 20, 2820 Gentofte"",Lokaltog,Nærumbanen,1936-01-01T00:00:00Z,55.761667,12.521667"
+"http://www.wikidata.org/entity/Q1960792,Kildebakke Station,8600781,S-tog,""Solnavej, 2860 Søborg"",Linje B,Hareskovbanen,1935-01-01T00:00:00Z,55.744722,12.507778"
+"http://www.wikidata.org/entity/Q1960792,Kildebakke Station,8600781,S-tog,""Solnavej, 2860 Søborg"",Linje Bx,Hareskovbanen,1935-01-01T00:00:00Z,55.744722,12.507778"
+http://www.wikidata.org/entity/Q1963278,Nørrebro Station,8600642,S-tog,,Linje F,Ringbanen,1930-05-15T00:00:00Z,55.700556,12.537778
+"http://www.wikidata.org/entity/Q1965072,Padborg Station,8600100,,""Jernbanegade 11, 6330 Padborg"",InterCity,Vamdrup-Padborg-banen,1864-10-01T00:00:00Z,54.82418,9.35842"
+"http://www.wikidata.org/entity/Q1965551,Holbæk Station,8600719,,""Jernbaneplads 7, 4300 Holbæk"",Regionaltog,Nordvestbanen,1874-01-01T00:00:00Z,55.7156,11.7083"
+"http://www.wikidata.org/entity/Q1965551,Holbæk Station,8600719,,""Jernbaneplads 7, 4300 Holbæk"",Regionaltog,Odsherredsbanen,1874-01-01T00:00:00Z,55.7156,11.7083"
+"http://www.wikidata.org/entity/Q1989604,Brande Station,8600291,,""Stationsvej 1, 7330 Brande"",InterCityLyn,Vejle-Holstebro-banen,1914-01-01T00:00:00Z,55.94459,9.13014"
+"http://www.wikidata.org/entity/Q1989604,Brande Station,8600291,,""Stationsvej 1, 7330 Brande"",Regionaltog,Vejle-Holstebro-banen,1914-01-01T00:00:00Z,55.94459,9.13014"
+"http://www.wikidata.org/entity/Q1989604,Brande Station,8600291,,""Stationsvej 1, 7330 Brande"",InterCityLyn,Funder-Bramming-banen,1914-01-01T00:00:00Z,55.94459,9.13014"
+"http://www.wikidata.org/entity/Q1989604,Brande Station,8600291,,""Stationsvej 1, 7330 Brande"",Regionaltog,Funder-Bramming-banen,1914-01-01T00:00:00Z,55.94459,9.13014"
+"http://www.wikidata.org/entity/Q1992973,Karlslunde Station,8600771,S-tog,""Stationsager 10, 2690 Karlslunde"",Linje A,Køge Bugt-banen,,55.566111,12.268889"
+"http://www.wikidata.org/entity/Q1992973,Karlslunde Station,8600771,S-tog,""Stationsager 10, 2690 Karlslunde"",Linje E,Køge Bugt-banen,,55.566111,12.268889"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",InterCity,Langå-Struer-banen,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",InterCityLyn,Langå-Struer-banen,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",Regionaltog,Langå-Struer-banen,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",InterCity,Thybanen,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",InterCityLyn,Thybanen,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",Regionaltog,Thybanen,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",InterCity,Den vestjyske længdebane,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",InterCityLyn,Den vestjyske længdebane,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q1993279,Struer Station,8600189,,""Østergade 57, 7600 Struer"",Regionaltog,Den vestjyske længdebane,1865-11-17T00:00:00Z,56.4917,8.60167"
+"http://www.wikidata.org/entity/Q2005410,Ringe Station,8600563,,""Stationsvej 4, 5750 Ringe"",Regionaltog,Ringe-Faaborgbanen,1876-07-12T00:00:00Z,55.2389,10.4817"
+"http://www.wikidata.org/entity/Q2005410,Ringe Station,8600563,,""Stationsvej 4, 5750 Ringe"",Regionaltog,Svendborgbanen,1876-07-12T00:00:00Z,55.2389,10.4817"
+"http://www.wikidata.org/entity/Q2005410,Ringe Station,8600563,,""Stationsvej 4, 5750 Ringe"",Regionaltog,Fåborg-Ringe-Nyborg-banen,1876-07-12T00:00:00Z,55.2389,10.4817"
+"http://www.wikidata.org/entity/Q2010673,Vejle Station,8600073,,""Banegårdspladsen 3B, 7100 Vejle"",InterCity,Vejle-Holstebro-banen,1868-10-04T00:00:00Z,55.70644,9.53682"
+"http://www.wikidata.org/entity/Q2010673,Vejle Station,8600073,,""Banegårdspladsen 3B, 7100 Vejle"",InterCityLyn,Vejle-Holstebro-banen,1868-10-04T00:00:00Z,55.70644,9.53682"
+"http://www.wikidata.org/entity/Q2010673,Vejle Station,8600073,,""Banegårdspladsen 3B, 7100 Vejle"",Regionaltog,Vejle-Holstebro-banen,1868-10-04T00:00:00Z,55.70644,9.53682"
+"http://www.wikidata.org/entity/Q2010673,Vejle Station,8600073,,""Banegårdspladsen 3B, 7100 Vejle"",InterCity,Den østjyske længdebane,1868-10-04T00:00:00Z,55.70644,9.53682"
+"http://www.wikidata.org/entity/Q2010673,Vejle Station,8600073,,""Banegårdspladsen 3B, 7100 Vejle"",InterCityLyn,Den østjyske længdebane,1868-10-04T00:00:00Z,55.70644,9.53682"
+"http://www.wikidata.org/entity/Q2010673,Vejle Station,8600073,,""Banegårdspladsen 3B, 7100 Vejle"",Regionaltog,Den østjyske længdebane,1868-10-04T00:00:00Z,55.70644,9.53682"
+"http://www.wikidata.org/entity/Q2016027,Ølby Station,8600792,S-tog,""Ølbycenter 2, 4600 Køge"",Linje E,Lille Syd,1983-09-25T00:00:00Z,55.48,12.175556"
+"http://www.wikidata.org/entity/Q2016027,Ølby Station,8600792,S-tog,""Ølbycenter 2, 4600 Køge"",Regionaltog,Lille Syd,1983-09-25T00:00:00Z,55.48,12.175556"
+"http://www.wikidata.org/entity/Q2016027,Ølby Station,8600792,S-tog,""Ølbycenter 2, 4600 Køge"",Linje E,Køge Bugt-banen,1983-09-25T00:00:00Z,55.48,12.175556"
+"http://www.wikidata.org/entity/Q2016027,Ølby Station,8600792,S-tog,""Ølbycenter 2, 4600 Køge"",Regionaltog,Køge Bugt-banen,1983-09-25T00:00:00Z,55.48,12.175556"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje H,Boulevardbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje B,Boulevardbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje Bx,Boulevardbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje A,Boulevardbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje C,Boulevardbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje E,Boulevardbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje H,Nordbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje B,Nordbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje Bx,Nordbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje A,Nordbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje C,Nordbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+"http://www.wikidata.org/entity/Q2039347,Vesterport Station,8600645,S-tog,""Ved Vesterport, 1612 København V"",Linje E,Nordbanen,1934-01-01T00:00:00Z,55.6759,12.5625"
+http://www.wikidata.org/entity/Q2063161,Hundested Station,,,,,Frederiksværkbanen,1916-01-01T00:00:00Z,55.96342,11.8527
+"http://www.wikidata.org/entity/Q2093914,Skive Station,8600183,,""Søndergade 16C, 7800 Skive"",Regionaltog,Langå-Struer-banen,1962-01-01T00:00:00Z,56.56132,9.02584"
+"http://www.wikidata.org/entity/Q2101398,Vigerslev Allé Station,8600804,S-tog,""Vigerslev Allé 141, 2500 Valby"",Linje F,Ringbanen,2005-01-08T00:00:00Z,55.659722,12.499167"
+"http://www.wikidata.org/entity/Q2110664,Høng Station,8602503,,""Jernbanevej 6, 4270 Høng"",,Tølløsebanen,1898-04-30T00:00:00Z,55.5069,11.2859"
+"http://www.wikidata.org/entity/Q2110664,Høng Station,8602503,,""Jernbanevej 6, 4270 Høng"",,Slagelse-Værslev-banen,1898-04-30T00:00:00Z,55.5069,11.2859"
+"http://www.wikidata.org/entity/Q2112838,Vejen Station,8600223,,""Banegårdspladsen 1, 6600 Vejen"",InterCity,Lunderskov-Esbjerg-banen,1874-10-03T00:00:00Z,55.47594,9.13599"
+"http://www.wikidata.org/entity/Q2112838,Vejen Station,8600223,,""Banegårdspladsen 1, 6600 Vejen"",Regionaltog,Lunderskov-Esbjerg-banen,1874-10-03T00:00:00Z,55.47594,9.13599"
+http://www.wikidata.org/entity/Q2126022,Hirtshals Station,8601803,,,,Hirtshalsbanen,1925-01-01T00:00:00Z,57.59168,9.96369
+"http://www.wikidata.org/entity/Q2143960,Bramming Station,8600219,,""Jernbanegade 9, 6740 Bramming"",InterCity,Bramming-Tønder-banen,1886-01-01T00:00:00Z,55.46445,8.70749"
+"http://www.wikidata.org/entity/Q2143960,Bramming Station,8600219,,""Jernbanegade 9, 6740 Bramming"",Regionaltog,Bramming-Tønder-banen,1886-01-01T00:00:00Z,55.46445,8.70749"
+"http://www.wikidata.org/entity/Q2143960,Bramming Station,8600219,,""Jernbanegade 9, 6740 Bramming"",InterCity,Lunderskov-Esbjerg-banen,1886-01-01T00:00:00Z,55.46445,8.70749"
+"http://www.wikidata.org/entity/Q2143960,Bramming Station,8600219,,""Jernbanegade 9, 6740 Bramming"",Regionaltog,Lunderskov-Esbjerg-banen,1886-01-01T00:00:00Z,55.46445,8.70749"
+"http://www.wikidata.org/entity/Q2148628,Holstebro Station,8600192,,""Stationsvej 15, 7500 Holstebro"",InterCityLyn,Ringkøbing-Ørnhøj-Holstebro Jernbane,1866-11-01T00:00:00Z,56.36544,8.62015"
+"http://www.wikidata.org/entity/Q2148628,Holstebro Station,8600192,,""Stationsvej 15, 7500 Holstebro"",Regionaltog,Ringkøbing-Ørnhøj-Holstebro Jernbane,1866-11-01T00:00:00Z,56.36544,8.62015"
+"http://www.wikidata.org/entity/Q2148628,Holstebro Station,8600192,,""Stationsvej 15, 7500 Holstebro"",InterCityLyn,Den vestjyske længdebane,1866-11-01T00:00:00Z,56.36544,8.62015"
+"http://www.wikidata.org/entity/Q2148628,Holstebro Station,8600192,,""Stationsvej 15, 7500 Holstebro"",Regionaltog,Den vestjyske længdebane,1866-11-01T00:00:00Z,56.36544,8.62015"
+"http://www.wikidata.org/entity/Q2148628,Holstebro Station,8600192,,""Stationsvej 15, 7500 Holstebro"",InterCityLyn,Vejle-Holstebro-banen,1866-11-01T00:00:00Z,56.36544,8.62015"
+"http://www.wikidata.org/entity/Q2148628,Holstebro Station,8600192,,""Stationsvej 15, 7500 Holstebro"",Regionaltog,Vejle-Holstebro-banen,1866-11-01T00:00:00Z,56.36544,8.62015"
+http://www.wikidata.org/entity/Q2158111,Høvelte Trinbræt,8600909,S-tog,,Linje A,Nordbanen,,55.850833,12.388056
+"http://www.wikidata.org/entity/Q2162602,Helsingør Station,8600669,,""Stationspladsen 2, 3000 Helsingør"",Øresundstogtrafikken,Lille Nord,1891-10-24T00:00:00Z,56.033333333333,12.614166666667"
+"http://www.wikidata.org/entity/Q2162602,Helsingør Station,8600669,,""Stationspladsen 2, 3000 Helsingør"",Øresundstogtrafikken,Hornbækbanen,1891-10-24T00:00:00Z,56.033333333333,12.614166666667"
+"http://www.wikidata.org/entity/Q2162602,Helsingør Station,8600669,,""Stationspladsen 2, 3000 Helsingør"",Øresundstogtrafikken,Kystbanen,1891-10-24T00:00:00Z,56.033333333333,12.614166666667"
+"http://www.wikidata.org/entity/Q2188517,Fuglebakken Station,8600640,S-tog,""Borups Allé 143, 2000 Frederiksberg"",Linje F,Ringbanen,1936-05-15T00:00:00Z,55.695278,12.526667"
+"http://www.wikidata.org/entity/Q2191753,Brøndby Strand Station,8600766,S-tog,""Brøndby Strand Centrum 1, 2660 Brøndby Strand"",Linje A,Køge Bugt-banen,1972-10-01T00:00:00Z,55.621,12.422"
+"http://www.wikidata.org/entity/Q2193214,Næstved Station,8600810,,""Banegårdspladsen 2, 4700 Næstved"",Regionaltog,Sydbanen,1870-01-01T00:00:00Z,55.2317,11.7675"
+"http://www.wikidata.org/entity/Q2193214,Næstved Station,8600810,,""Banegårdspladsen 2, 4700 Næstved"",Regionaltog,Lille Syd,1870-01-01T00:00:00Z,55.2317,11.7675"
+"http://www.wikidata.org/entity/Q2193214,Næstved Station,8600810,,""Banegårdspladsen 2, 4700 Næstved"",Regionaltog,Næstved-Præstø-Mern Banen,1870-01-01T00:00:00Z,55.2317,11.7675"
+"http://www.wikidata.org/entity/Q2193214,Næstved Station,8600810,,""Banegårdspladsen 2, 4700 Næstved"",Regionaltog,Sjællandske midtbane,1870-01-01T00:00:00Z,55.2317,11.7675"
+"http://www.wikidata.org/entity/Q2194233,Sønderborg Station,8600327,,""Alsion 1, 6400 Sønderborg"",InterCityLyn,Sønderborgbanen,1901-06-15T00:00:00Z,54.91241,9.77879"
+"http://www.wikidata.org/entity/Q2194233,Sønderborg Station,8600327,,""Alsion 1, 6400 Sønderborg"",InterCityLyn,Mommark-banen,1901-06-15T00:00:00Z,54.91241,9.77879"
+"http://www.wikidata.org/entity/Q2197123,Skanderborg Station,8600061,,""Jernbanevej 3, 8660 Skanderborg"",InterCity,Skanderborg-Skjern-banen,1868-01-01T00:00:00Z,56.04355,9.9251"
+"http://www.wikidata.org/entity/Q2197123,Skanderborg Station,8600061,,""Jernbanevej 3, 8660 Skanderborg"",InterCityLyn,Skanderborg-Skjern-banen,1868-01-01T00:00:00Z,56.04355,9.9251"
+"http://www.wikidata.org/entity/Q2197123,Skanderborg Station,8600061,,""Jernbanevej 3, 8660 Skanderborg"",Regionaltog,Skanderborg-Skjern-banen,1868-01-01T00:00:00Z,56.04355,9.9251"
+"http://www.wikidata.org/entity/Q2197123,Skanderborg Station,8600061,,""Jernbanevej 3, 8660 Skanderborg"",InterCity,Fredericia-Aarhus-banen,1868-01-01T00:00:00Z,56.04355,9.9251"
+"http://www.wikidata.org/entity/Q2197123,Skanderborg Station,8600061,,""Jernbanevej 3, 8660 Skanderborg"",InterCityLyn,Fredericia-Aarhus-banen,1868-01-01T00:00:00Z,56.04355,9.9251"
+"http://www.wikidata.org/entity/Q2197123,Skanderborg Station,8600061,,""Jernbanevej 3, 8660 Skanderborg"",Regionaltog,Fredericia-Aarhus-banen,1868-01-01T00:00:00Z,56.04355,9.9251"
+"http://www.wikidata.org/entity/Q2200260,Sjælør Station,8600761,S-tog,""Carl Jacobsens Vej, 2500 Valby"",Linje A,Køge Bugt-banen,1972-10-01T00:00:00Z,55.651667,12.526944"
+"http://www.wikidata.org/entity/Q2200260,Sjælør Station,8600761,S-tog,""Carl Jacobsens Vej, 2500 Valby"",Linje E,Køge Bugt-banen,1972-10-01T00:00:00Z,55.651667,12.526944"
+http://www.wikidata.org/entity/Q2202168,Trustrup Station,,Aarhus Letbane,,Linje L1,Ebeltoft-Trustrup Jernbane,1876-08-26T00:00:00Z,56.35084,10.77209
+http://www.wikidata.org/entity/Q2202168,Trustrup Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1876-08-26T00:00:00Z,56.35084,10.77209
+http://www.wikidata.org/entity/Q2202168,Trustrup Station,,Aarhus Letbane,,Linje L1,Randers-Ryomgård-Grenaa-banen,1876-08-26T00:00:00Z,56.35084,10.77209
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",InterCity,Den fynske hovedbane,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",InterCityLyn,Den fynske hovedbane,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",Regionaltog,Den fynske hovedbane,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",InterCity,Svendborgbanen,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",InterCityLyn,Svendborgbanen,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",Regionaltog,Svendborgbanen,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",InterCity,Nordfyenske Jernbane,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",InterCityLyn,Nordfyenske Jernbane,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2203165,Odense Banegård,8600512,,""Østre Stationsvej 27, 5000 Odense C"",Regionaltog,Nordfyenske Jernbane,1865-01-01T00:00:00Z,55.4017,10.3861"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCity,Aalborg-Hadsund Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCityLyn,Aalborg-Hadsund Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",Regionaltog,Aalborg-Hadsund Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCity,Vendsysselbanen,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCityLyn,Vendsysselbanen,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",Regionaltog,Vendsysselbanen,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCity,Fjerritslev-Frederikshavn Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCityLyn,Fjerritslev-Frederikshavn Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",Regionaltog,Fjerritslev-Frederikshavn Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCity,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",InterCityLyn,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2204904,Aalborg Station,8600020,,""John F. Kennedys Plads 3, 9000 Aalborg"",Regionaltog,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,57.043,9.9167"
+"http://www.wikidata.org/entity/Q2207964,Greve Station,8600770,S-tog,""Stationsholmen 6, 2670 Greve Strand"",Linje A,Køge Bugt-banen,1979-01-01T00:00:00Z,55.58168,12.29664"
+"http://www.wikidata.org/entity/Q2207964,Greve Station,8600770,S-tog,""Stationsholmen 6, 2670 Greve Strand"",Linje E,Køge Bugt-banen,1979-01-01T00:00:00Z,55.58168,12.29664"
+"http://www.wikidata.org/entity/Q2223116,Sydhavn Station,8600760,S-tog,""Ernst Kapers Vej 1, 2450 København SV"",Linje A,Køge Bugt-banen,1972-01-01T00:00:00Z,55.655,12.537778"
+"http://www.wikidata.org/entity/Q2223116,Sydhavn Station,8600760,S-tog,""Ernst Kapers Vej 1, 2450 København SV"",Linje E,Køge Bugt-banen,1972-01-01T00:00:00Z,55.655,12.537778"
+"http://www.wikidata.org/entity/Q2227551,Nykøbing F Station,8600824,,""Banegårdspladsen 2, 4800 Nykøbing F"",Regionaltog,Gedserbanen,1872-08-22T00:00:00Z,54.7671,11.8774"
+"http://www.wikidata.org/entity/Q2227551,Nykøbing F Station,8600824,,""Banegårdspladsen 2, 4800 Nykøbing F"",Regionaltog,Sydbanen,1872-08-22T00:00:00Z,54.7671,11.8774"
+"http://www.wikidata.org/entity/Q2227551,Nykøbing F Station,8600824,,""Banegårdspladsen 2, 4800 Nykøbing F"",Regionaltog,Lollandsbanen,1872-08-22T00:00:00Z,54.7671,11.8774"
+"http://www.wikidata.org/entity/Q2231231,Langgade Station,8600701,S-tog,""Valby Langgade 128, 2500 Valby"",Linje H,Frederikssundbanen,1941-09-23T00:00:00Z,55.667222,12.504167"
+"http://www.wikidata.org/entity/Q2258344,Varde Station,8600212,,""Stationspladsen 3, 6800 Varde"",Regionaltog,Varde-Nørre Nebel Jernbane,1874-10-03T00:00:00Z,55.6158,8.48417"
+"http://www.wikidata.org/entity/Q2258344,Varde Station,8600212,,""Stationspladsen 3, 6800 Varde"",Regionaltog,Den vestjyske længdebane,1874-10-03T00:00:00Z,55.6158,8.48417"
+"http://www.wikidata.org/entity/Q2262519,Brøndbyøster Station,8600679,S-tog,""Gillesager 1, 2605 Brøndby"",Linje B,Høje Taastrup-banen,1953-06-17T00:00:00Z,55.664903,12.439656"
+http://www.wikidata.org/entity/Q2268069,Nørre Nebel Station,8604725,,,,Varde-Nørre Nebel Jernbane,1903-03-15T00:00:00Z,55.7773,8.29064
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,S-tog,""Vejlebrovej 35, 2635 Ishøj"",Linje A,Køge Bugt-banen,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,Hovedstadens Letbane,""Vejlebrovej 35, 2635 Ishøj"",Linje A,Køge Bugt-banen,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,S-tog,""Vejlebrovej 35, 2635 Ishøj"",Linje E,Køge Bugt-banen,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,Hovedstadens Letbane,""Vejlebrovej 35, 2635 Ishøj"",Linje E,Køge Bugt-banen,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,S-tog,""Vejlebrovej 35, 2635 Ishøj"",Linje A,Hovedstadens Letbane,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,Hovedstadens Letbane,""Vejlebrovej 35, 2635 Ishøj"",Linje A,Hovedstadens Letbane,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,S-tog,""Vejlebrovej 35, 2635 Ishøj"",Linje E,Hovedstadens Letbane,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2277021,Ishøj Station,8600768,Hovedstadens Letbane,""Vejlebrovej 35, 2635 Ishøj"",Linje E,Hovedstadens Letbane,1976-01-01T00:00:00Z,55.613333,12.357778"
+"http://www.wikidata.org/entity/Q2287496,Friheden Station,8600764,S-tog,""Hvidovrevej 333-335, 2650 Hvidovre"",Linje A,Køge Bugt-banen,1972-01-01T00:00:00Z,55.629167,12.482778"
+"http://www.wikidata.org/entity/Q2289298,Stengården Station,8600691,S-tog,""Gammelmosevej, 2880 Bagsværd"",Linje B,Hareskovbanen,1929-01-01T00:00:00Z,55.756667,12.473056"
+"http://www.wikidata.org/entity/Q2294306,Thyregod Station,8600290,,""Vestre Allé 8C, Thyregod, 7323 Give"",InterCityLyn,Vejle-Holstebro-banen,1899-05-17T00:00:00Z,55.90868,9.25225"
+"http://www.wikidata.org/entity/Q2294306,Thyregod Station,8600290,,""Vestre Allé 8C, Thyregod, 7323 Give"",Regionaltog,Vejle-Holstebro-banen,1899-05-17T00:00:00Z,55.90868,9.25225"
+"http://www.wikidata.org/entity/Q2294306,Thyregod Station,8600290,,""Vestre Allé 8C, Thyregod, 7323 Give"",InterCityLyn,Vejle-Holstebro-banen,1914-01-01T00:00:00Z,55.90868,9.25225"
+"http://www.wikidata.org/entity/Q2294306,Thyregod Station,8600290,,""Vestre Allé 8C, Thyregod, 7323 Give"",Regionaltog,Vejle-Holstebro-banen,1914-01-01T00:00:00Z,55.90868,9.25225"
+"http://www.wikidata.org/entity/Q2299947,Frederikshavn Station,8600001,,""Havnepladsen 30, 9900 Frederikshavn"",Regionaltog,Vendsysselbanen,1979-01-01T00:00:00Z,57.4415,10.5404"
+"http://www.wikidata.org/entity/Q2299947,Frederikshavn Station,8600001,,""Havnepladsen 30, 9900 Frederikshavn"",Regionaltog,Skagensbanen,1979-01-01T00:00:00Z,57.4415,10.5404"
+"http://www.wikidata.org/entity/Q2301970,Vedbæk Station,8600662,,""Vedbæk Stationsvej 20, 2950 Vedbæk"",Øresundstogtrafikken,Kystbanen,1897-01-01T00:00:00Z,55.852777777778,12.5625"
+"http://www.wikidata.org/entity/Q2303504,Middelfart Station,8600501,,""Jernbanegade 39, 5500 Middelfart"",InterCity,Den fynske hovedbane,1935-05-14T00:00:00Z,55.5015,9.7347"
+"http://www.wikidata.org/entity/Q2303504,Middelfart Station,8600501,,""Jernbanegade 39, 5500 Middelfart"",Regionaltog,Den fynske hovedbane,1935-05-14T00:00:00Z,55.5015,9.7347"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje C,Frederikssundbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Regionaltog,Frederikssundbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",InterCity,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje H,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje B,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje Bx,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje C,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Regionaltog,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",InterCity,Vestbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje H,Vestbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje B,Vestbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje Bx,Vestbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje C,Vestbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Regionaltog,Vestbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",InterCity,Frederikssundbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje H,Frederikssundbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje B,Frederikssundbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+"http://www.wikidata.org/entity/Q2305499,Valby Station,8600624,S-tog,""Mellemtoftevej 1A, 2500 Valby"",Linje Bx,Frederikssundbanen,1847-01-01T00:00:00Z,55.663889,12.514444"
+http://www.wikidata.org/entity/Q2312247,Grenaa Station,8600165,Aarhus Letbane,,Linje L1,Grenaabanen,1876-01-01T00:00:00Z,56.41276,10.88016
+http://www.wikidata.org/entity/Q2312247,Grenaa Station,8600165,Aarhus Letbane,,Linje L1,Ryomgård-Gjerrild-Grenaa Jernbane,1876-01-01T00:00:00Z,56.41276,10.88016
+"http://www.wikidata.org/entity/Q2319139,Hobro Station,8600032,,""Stationsvej 12, 9500 Hobro"",InterCity,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,56.6433,9.7825"
+"http://www.wikidata.org/entity/Q2319139,Hobro Station,8600032,,""Stationsvej 12, 9500 Hobro"",InterCityLyn,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,56.6433,9.7825"
+"http://www.wikidata.org/entity/Q2319139,Hobro Station,8600032,,""Stationsvej 12, 9500 Hobro"",Regionaltog,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,56.6433,9.7825"
+"http://www.wikidata.org/entity/Q2319139,Hobro Station,8600032,,""Stationsvej 12, 9500 Hobro"",InterCity,Hobro-Løgstørbanen,1869-01-01T00:00:00Z,56.6433,9.7825"
+"http://www.wikidata.org/entity/Q2319139,Hobro Station,8600032,,""Stationsvej 12, 9500 Hobro"",InterCityLyn,Hobro-Løgstørbanen,1869-01-01T00:00:00Z,56.6433,9.7825"
+"http://www.wikidata.org/entity/Q2319139,Hobro Station,8600032,,""Stationsvej 12, 9500 Hobro"",Regionaltog,Hobro-Løgstørbanen,1869-01-01T00:00:00Z,56.6433,9.7825"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Linje A,Lille Nord,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Lokaltog,Lille Nord,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Linje A,Frederiksværkbanen,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Lokaltog,Frederiksværkbanen,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Linje A,Nordbanen,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Lokaltog,Nordbanen,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Linje A,Gribskovbanen,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2347051,Hillerød Station,8600683,S-tog,""Nordre Jernbanevej 37, 3400 Hillerød"",Lokaltog,Gribskovbanen,1864-01-01T00:00:00Z,55.927,12.311"
+"http://www.wikidata.org/entity/Q2350881,Frederikssund Station,8600714,S-tog,""Jernbanegade 46, 3600 Frederikssund"",Linje C,Frederikssundbanen,1889-01-01T00:00:00Z,55.835833,12.065556"
+"http://www.wikidata.org/entity/Q2353868,Værløse Station,8600695,S-tog,""Hareskovhvilevej 10, 3500 Værløse"",Linje B,Hareskovbanen,1906-01-01T00:00:00Z,55.782222,12.3725"
+"http://www.wikidata.org/entity/Q2355834,Danshøj Station,8600742,S-tog,""Ansgars Allé 20, 2500 Valby"",Linje B,Ringbanen,2005-01-08T00:00:00Z,55.6642,12.4937"
+"http://www.wikidata.org/entity/Q2355834,Danshøj Station,8600742,S-tog,""Ansgars Allé 20, 2500 Valby"",Linje Bx,Ringbanen,2005-01-08T00:00:00Z,55.6642,12.4937"
+"http://www.wikidata.org/entity/Q2355834,Danshøj Station,8600742,S-tog,""Ansgars Allé 20, 2500 Valby"",Linje F,Ringbanen,2005-01-08T00:00:00Z,55.6642,12.4937"
+"http://www.wikidata.org/entity/Q2355834,Danshøj Station,8600742,S-tog,""Ansgars Allé 20, 2500 Valby"",Linje B,Høje Taastrup-banen,2005-01-08T00:00:00Z,55.6642,12.4937"
+"http://www.wikidata.org/entity/Q2355834,Danshøj Station,8600742,S-tog,""Ansgars Allé 20, 2500 Valby"",Linje Bx,Høje Taastrup-banen,2005-01-08T00:00:00Z,55.6642,12.4937"
+"http://www.wikidata.org/entity/Q2355834,Danshøj Station,8600742,S-tog,""Ansgars Allé 20, 2500 Valby"",Linje F,Høje Taastrup-banen,2005-01-08T00:00:00Z,55.6642,12.4937"
+"http://www.wikidata.org/entity/Q2368951,Herlev Station,8600706,S-tog,""Stationsalleen 9, 2730 Herlev"",Linje H,Frederikssundbanen,1879-06-15T00:00:00Z,55.718889,12.443611"
+"http://www.wikidata.org/entity/Q2368951,Herlev Station,8600706,S-tog,""Stationsalleen 9, 2730 Herlev"",Linje C,Frederikssundbanen,1879-06-15T00:00:00Z,55.718889,12.443611"
+"http://www.wikidata.org/entity/Q2391064,Herning Station,8600275,,""Banegårdspladsen 6C, 7400 Herning"",InterCityLyn,Skanderborg-Skjern-banen,1877-08-28T00:00:00Z,56.13251,8.97909"
+"http://www.wikidata.org/entity/Q2391064,Herning Station,8600275,,""Banegårdspladsen 6C, 7400 Herning"",Regionaltog,Skanderborg-Skjern-banen,1877-08-28T00:00:00Z,56.13251,8.97909"
+"http://www.wikidata.org/entity/Q2391064,Herning Station,8600275,,""Banegårdspladsen 6C, 7400 Herning"",InterCityLyn,Herning-Viborg banen,1877-08-28T00:00:00Z,56.13251,8.97909"
+"http://www.wikidata.org/entity/Q2391064,Herning Station,8600275,,""Banegårdspladsen 6C, 7400 Herning"",Regionaltog,Herning-Viborg banen,1877-08-28T00:00:00Z,56.13251,8.97909"
+"http://www.wikidata.org/entity/Q2391064,Herning Station,8600275,,""Banegårdspladsen 6C, 7400 Herning"",InterCityLyn,Vejle-Holstebro-banen,1877-08-28T00:00:00Z,56.13251,8.97909"
+"http://www.wikidata.org/entity/Q2391064,Herning Station,8600275,,""Banegårdspladsen 6C, 7400 Herning"",Regionaltog,Vejle-Holstebro-banen,1877-08-28T00:00:00Z,56.13251,8.97909"
+"http://www.wikidata.org/entity/Q2392932,Peter Bangs Vej Station,8600702,S-tog,""Glahns Alle 2, 2000 Frederiksberg"",Linje H,Frederikssundbanen,1941-09-23T00:00:00Z,55.678056,12.503611"
+"http://www.wikidata.org/entity/Q2393517,Tølløse Station,8600717,,""Jernbanevej 17, 4340 Tølløse"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.61199,11.77294"
+"http://www.wikidata.org/entity/Q2393517,Tølløse Station,8600717,,""Jernbanevej 17, 4340 Tølløse"",Regionaltog,Tølløsebanen,1874-12-30T00:00:00Z,55.61199,11.77294"
+"http://www.wikidata.org/entity/Q2395511,Hvidovre Station,8600600,S-tog,""Hvidovrevej 53-57, 2650 Hvidovre"",Linje B,Høje Taastrup-banen,1935-01-01T00:00:00Z,55.6645,12.474"
+"http://www.wikidata.org/entity/Q2410874,Langå Station,8600044,,""Bredgade 55, 8870 Langå"",InterCity,Langå-Struer-banen,1862-09-02T00:00:00Z,56.3864,9.89633"
+"http://www.wikidata.org/entity/Q2410874,Langå Station,8600044,,""Bredgade 55, 8870 Langå"",Regionaltog,Langå-Struer-banen,1862-09-02T00:00:00Z,56.3864,9.89633"
+"http://www.wikidata.org/entity/Q2410874,Langå Station,8600044,,""Bredgade 55, 8870 Langå"",InterCity,Den østjyske længdebane,1862-09-02T00:00:00Z,56.3864,9.89633"
+"http://www.wikidata.org/entity/Q2410874,Langå Station,8600044,,""Bredgade 55, 8870 Langå"",Regionaltog,Den østjyske længdebane,1862-09-02T00:00:00Z,56.3864,9.89633"
+"http://www.wikidata.org/entity/Q2411572,Buddinge Station,8600690,S-tog,""Buddingevej 270, 2860 Søborg"",Linje B,Hareskovbanen,1906-01-01T00:00:00Z,55.747222,12.493333"
+"http://www.wikidata.org/entity/Q2411572,Buddinge Station,8600690,S-tog,""Buddingevej 270, 2860 Søborg"",Linje Bx,Hareskovbanen,1906-01-01T00:00:00Z,55.747222,12.493333"
+"http://www.wikidata.org/entity/Q2430559,Gentofte Station,8600673,S-tog,""Brogårdsvej 14, 2820 Gentofte"",Linje E,Nordbanen,1863-01-01T00:00:00Z,55.753611,12.541389"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje H,Køge Bugt-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje B,Køge Bugt-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje Bx,Køge Bugt-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje A,Køge Bugt-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje C,Køge Bugt-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje E,Køge Bugt-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje H,Høje Taastrup-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje B,Høje Taastrup-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje Bx,Høje Taastrup-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje A,Høje Taastrup-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje C,Høje Taastrup-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2459840,Dybbølsbro Station,8600634,S-tog,""Ingerslevsgade 101, 1705 København V"",Linje E,Høje Taastrup-banen,1934-01-01T00:00:00Z,55.665278,12.559444"
+"http://www.wikidata.org/entity/Q2460064,Nyborg Station,8600518,,""Banegårdsalleen 100, 5800 Nyborg"",InterCity,Den fynske hovedbane,1995-01-01T00:00:00Z,55.3139,10.8031"
+"http://www.wikidata.org/entity/Q2460064,Nyborg Station,8600518,,""Banegårdsalleen 100, 5800 Nyborg"",InterCityLyn,Den fynske hovedbane,1995-01-01T00:00:00Z,55.3139,10.8031"
+"http://www.wikidata.org/entity/Q2460064,Nyborg Station,8600518,,""Banegårdsalleen 100, 5800 Nyborg"",Regionaltog,Den fynske hovedbane,1995-01-01T00:00:00Z,55.3139,10.8031"
+http://www.wikidata.org/entity/Q2472975,Vedde Station,8602523,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.53256,11.54734
+http://www.wikidata.org/entity/Q2472975,Vedde Station,8602523,,,,Sorø-Vedde-banen,1901-12-22T00:00:00Z,55.53256,11.54734
+"http://www.wikidata.org/entity/Q2480478,Albertslund Station,8600621,S-tog,""Hedemarksvej 1, 2620 Albertslund"",Linje B,Høje Taastrup-banen,1931-01-01T00:00:00Z,55.658,12.353"
+"http://www.wikidata.org/entity/Q2480478,Albertslund Station,8600621,S-tog,""Hedemarksvej 1, 2620 Albertslund"",Linje Bx,Høje Taastrup-banen,1931-01-01T00:00:00Z,55.658,12.353"
+"http://www.wikidata.org/entity/Q2490785,Rødkærsbro Station,8600174,,""Jernbanegade 7, 8840 Rødkærsbro"",,Langå-Struer-banen,1863-07-21T00:00:00Z,56.35275,9.49959"
+"http://www.wikidata.org/entity/Q2490785,Rødkærsbro Station,8600174,,""Jernbanegade 7, 8840 Rødkærsbro"",,Silkeborg-Kjellerup-Rødkærsbro Jernbane,1863-07-21T00:00:00Z,56.35275,9.49959"
+"http://www.wikidata.org/entity/Q2494694,Farum Station,8600696,S-tog,""Jernbanevej 1, 3520 Farum"",Linje B,Hareskovbanen,1906-01-01T00:00:00Z,55.811944,12.373889"
+http://www.wikidata.org/entity/Q2503059,Ryomgård Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1876-08-26T00:00:00Z,56.3801,10.5006
+http://www.wikidata.org/entity/Q2503059,Ryomgård Station,,Aarhus Letbane,,Linje L1,Ryomgård-Gjerrild-Grenaa Jernbane,1876-08-26T00:00:00Z,56.3801,10.5006
+http://www.wikidata.org/entity/Q2503059,Ryomgård Station,,Aarhus Letbane,,Linje L1,Randers-Ryomgård-banen,1876-08-26T00:00:00Z,56.3801,10.5006
+"http://www.wikidata.org/entity/Q2534443,Svenstrup Station,8600023,,""Svenstrup Banevej, 9230 Svenstrup"",InterCity,Aalborg Nærbane,2003-01-01T00:00:00Z,56.9719,9.85611"
+"http://www.wikidata.org/entity/Q2534443,Svenstrup Station,8600023,,""Svenstrup Banevej, 9230 Svenstrup"",Regionaltog,Aalborg Nærbane,2003-01-01T00:00:00Z,56.9719,9.85611"
+"http://www.wikidata.org/entity/Q2534443,Svenstrup Station,8600023,,""Svenstrup Banevej, 9230 Svenstrup"",InterCity,Randers-Aalborg Jernbane,2003-01-01T00:00:00Z,56.9719,9.85611"
+"http://www.wikidata.org/entity/Q2534443,Svenstrup Station,8600023,,""Svenstrup Banevej, 9230 Svenstrup"",Regionaltog,Randers-Aalborg Jernbane,2003-01-01T00:00:00Z,56.9719,9.85611"
+"http://www.wikidata.org/entity/Q2541354,Sorø Station,8600608,,""Stationspladsen 1, 4180 Sorø"",InterCity,Vestbanen,1856-04-27T00:00:00Z,55.4192,11.5697"
+"http://www.wikidata.org/entity/Q2541354,Sorø Station,8600608,,""Stationspladsen 1, 4180 Sorø"",Regionaltog,Vestbanen,1856-04-27T00:00:00Z,55.4192,11.5697"
+"http://www.wikidata.org/entity/Q2541354,Sorø Station,8600608,,""Stationspladsen 1, 4180 Sorø"",InterCity,Sorø-Vedde-banen,1856-04-27T00:00:00Z,55.4192,11.5697"
+"http://www.wikidata.org/entity/Q2541354,Sorø Station,8600608,,""Stationspladsen 1, 4180 Sorø"",Regionaltog,Sorø-Vedde-banen,1856-04-27T00:00:00Z,55.4192,11.5697"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",InterCity,Ringbanen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje F,Ringbanen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje A,Ringbanen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje E,Ringbanen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Regionaltog,Ringbanen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",InterCity,Køge Bugt-banen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje F,Køge Bugt-banen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje A,Køge Bugt-banen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje E,Køge Bugt-banen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Regionaltog,Køge Bugt-banen,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",InterCity,Godsforbindelsesbanen ved København,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje F,Godsforbindelsesbanen ved København,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje A,Godsforbindelsesbanen ved København,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Linje E,Godsforbindelsesbanen ved København,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2549727,København Syd Station,8600783,S-tog,""Carl Jacobsens Vej 19, 2500 Valby"",Regionaltog,Godsforbindelsesbanen ved København,2006-11-16T00:00:00Z,55.652361,12.516389"
+"http://www.wikidata.org/entity/Q2571198,Lunderskov Station,8600086,,""Torvet 2, 6640 Lunderskov"",InterCity,Lunderskov-Esbjerg-banen,1887-01-01T00:00:00Z,55.4799,9.30344"
+"http://www.wikidata.org/entity/Q2571198,Lunderskov Station,8600086,,""Torvet 2, 6640 Lunderskov"",InterCityLyn,Lunderskov-Esbjerg-banen,1887-01-01T00:00:00Z,55.4799,9.30344"
+"http://www.wikidata.org/entity/Q2571198,Lunderskov Station,8600086,,""Torvet 2, 6640 Lunderskov"",Regionaltog,Lunderskov-Esbjerg-banen,1887-01-01T00:00:00Z,55.4799,9.30344"
+"http://www.wikidata.org/entity/Q2571198,Lunderskov Station,8600086,,""Torvet 2, 6640 Lunderskov"",InterCity,Fredericia-Vamdrup-banen,1887-01-01T00:00:00Z,55.4799,9.30344"
+"http://www.wikidata.org/entity/Q2571198,Lunderskov Station,8600086,,""Torvet 2, 6640 Lunderskov"",InterCityLyn,Fredericia-Vamdrup-banen,1887-01-01T00:00:00Z,55.4799,9.30344"
+"http://www.wikidata.org/entity/Q2571198,Lunderskov Station,8600086,,""Torvet 2, 6640 Lunderskov"",Regionaltog,Fredericia-Vamdrup-banen,1887-01-01T00:00:00Z,55.4799,9.30344"
+"http://www.wikidata.org/entity/Q2599562,Viborg Station,8600176,,""Banegårdspladsen 2, 8800 Viborg"",Regionaltog,Langå-Struer-banen,1863-07-21T00:00:00Z,56.44722,9.39846"
+"http://www.wikidata.org/entity/Q2599562,Viborg Station,8600176,,""Banegårdspladsen 2, 8800 Viborg"",Regionaltog,Herning-Viborg banen,1863-07-21T00:00:00Z,56.44722,9.39846"
+"http://www.wikidata.org/entity/Q2601548,Aarhus Hovedbanegård,8600053,,""Banegårdspladsen 1D, 8000 Aarhus C"",InterCity,Aarhus-Randers-banen,1927-01-01T00:00:00Z,56.14995,10.20372"
+"http://www.wikidata.org/entity/Q2601548,Aarhus Hovedbanegård,8600053,,""Banegårdspladsen 1D, 8000 Aarhus C"",InterCityLyn,Aarhus-Randers-banen,1927-01-01T00:00:00Z,56.14995,10.20372"
+"http://www.wikidata.org/entity/Q2601548,Aarhus Hovedbanegård,8600053,,""Banegårdspladsen 1D, 8000 Aarhus C"",Regionaltog,Aarhus-Randers-banen,1927-01-01T00:00:00Z,56.14995,10.20372"
+"http://www.wikidata.org/entity/Q2601548,Aarhus Hovedbanegård,8600053,,""Banegårdspladsen 1D, 8000 Aarhus C"",InterCity,Den østjyske længdebane,1927-01-01T00:00:00Z,56.14995,10.20372"
+"http://www.wikidata.org/entity/Q2601548,Aarhus Hovedbanegård,8600053,,""Banegårdspladsen 1D, 8000 Aarhus C"",InterCityLyn,Den østjyske længdebane,1927-01-01T00:00:00Z,56.14995,10.20372"
+"http://www.wikidata.org/entity/Q2601548,Aarhus Hovedbanegård,8600053,,""Banegårdspladsen 1D, 8000 Aarhus C"",Regionaltog,Den østjyske længdebane,1927-01-01T00:00:00Z,56.14995,10.20372"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",InterCity,Vestbanen,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",InterCityLyn,Vestbanen,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",Regionaltog,Vestbanen,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",InterCity,Lille Syd,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",InterCityLyn,Lille Syd,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",Regionaltog,Lille Syd,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",InterCity,Nordvestbanen,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",InterCityLyn,Nordvestbanen,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2604259,Roskilde Station,8600617,,""Jernbanegade 1, 4000 Roskilde"",Regionaltog,Nordvestbanen,1847-01-01T00:00:00Z,55.6386,12.0883"
+"http://www.wikidata.org/entity/Q2615777,Dyssegård Station,8600780,S-tog,""Dyssegårdsvej 38A, 2900 Hellerup"",Linje B,Hareskovbanen,1932-05-22T00:00:00Z,55.7322,12.536"
+"http://www.wikidata.org/entity/Q2615777,Dyssegård Station,8600780,S-tog,""Dyssegårdsvej 38A, 2900 Hellerup"",Linje Bx,Hareskovbanen,1932-05-22T00:00:00Z,55.7322,12.536"
+"http://www.wikidata.org/entity/Q2624457,Sorgenfri Station,8600676,S-tog,""Hummeltoftevej 51, 2830 Virum"",Linje E,Nordbanen,1936-01-01T00:00:00Z,55.781333,12.483333"
+"http://www.wikidata.org/entity/Q2625561,Ryparken Station,8600644,S-tog,""Lyngbyvej 102, 2100 København Ø"",Linje B,Hareskovbanen,1926-02-01T00:00:00Z,55.715556,12.559722"
+"http://www.wikidata.org/entity/Q2625561,Ryparken Station,8600644,S-tog,""Lyngbyvej 102, 2100 København Ø"",Linje Bx,Hareskovbanen,1926-02-01T00:00:00Z,55.715556,12.559722"
+"http://www.wikidata.org/entity/Q2625561,Ryparken Station,8600644,S-tog,""Lyngbyvej 102, 2100 København Ø"",Linje F,Hareskovbanen,1926-02-01T00:00:00Z,55.715556,12.559722"
+"http://www.wikidata.org/entity/Q2625561,Ryparken Station,8600644,S-tog,""Lyngbyvej 102, 2100 København Ø"",Linje B,Ringbanen,1926-02-01T00:00:00Z,55.715556,12.559722"
+"http://www.wikidata.org/entity/Q2625561,Ryparken Station,8600644,S-tog,""Lyngbyvej 102, 2100 København Ø"",Linje Bx,Ringbanen,1926-02-01T00:00:00Z,55.715556,12.559722"
+"http://www.wikidata.org/entity/Q2625561,Ryparken Station,8600644,S-tog,""Lyngbyvej 102, 2100 København Ø"",Linje F,Ringbanen,1926-02-01T00:00:00Z,55.715556,12.559722"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Regionaltog,Lille Syd,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Lokaltog,Lille Syd,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Linje E,Østbanen,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Regionaltog,Østbanen,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Lokaltog,Østbanen,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Linje E,Køge Bugt-banen,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Regionaltog,Køge Bugt-banen,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Lokaltog,Køge Bugt-banen,1870-01-01T00:00:00Z,55.457778,12.186667"
+"http://www.wikidata.org/entity/Q2647550,Køge Station,8600803,S-tog,""Jernbanegade 12, 4600 Køge"",Linje E,Lille Syd,1870-01-01T00:00:00Z,55.457778,12.186667"
+http://www.wikidata.org/entity/Q2651093,Jersie Station,8600791,S-tog,,Linje E,Køge Bugt-banen,1983-09-25T00:00:00Z,55.520556,12.208333
+http://www.wikidata.org/entity/Q2651991,Odder Station,,Aarhus Letbane,,Linje L2,Odderbanen,1884-06-19T00:00:00Z,55.97191,10.15049
+"http://www.wikidata.org/entity/Q2661351,Bernstorffsvej Station,8600672,S-tog,""Bernstorffsvej 134, 2900 Hellerup"",Linje E,Nordbanen,1936-01-01T00:00:00Z,55.7435,12.557"
+"http://www.wikidata.org/entity/Q2705593,Avedøre Station,8600765,S-tog,""Kærgårdsvej 52, 2650 Hvidovre"",Linje A,Køge Bugt-banen,1972-10-01T00:00:00Z,55.625556,12.455"
+"http://www.wikidata.org/entity/Q2706917,Solrød Strand Station,8600790,S-tog,""Solrød Center 47, 2680 Solrød Strand"",Linje A,Køge Bugt-banen,1976-09-26T00:00:00Z,55.533333,12.218056"
+"http://www.wikidata.org/entity/Q2706917,Solrød Strand Station,8600790,S-tog,""Solrød Center 47, 2680 Solrød Strand"",Linje E,Køge Bugt-banen,1976-09-26T00:00:00Z,55.533333,12.218056"
+"http://www.wikidata.org/entity/Q2724161,Hareskov Station,8600694,S-tog,""Stationsvej 5, 3500 Værløse"",Linje B,Hareskovbanen,1906-01-01T00:00:00Z,55.765556,12.407222"
+"http://www.wikidata.org/entity/Q2768443,Skovbrynet Station,8600693,S-tog,""Skovdiget 8, 2800 Bagsværd"",Linje B,Hareskovbanen,1930-01-01T00:00:00Z,55.765278,12.434444"
+"http://www.wikidata.org/entity/Q2793149,Hundige Station,8600769,S-tog,""Hundige Stationsvej, 2670 Greve Strand"",Linje A,Køge Bugt-banen,1976-01-01T00:00:00Z,55.598,12.334"
+"http://www.wikidata.org/entity/Q2793149,Hundige Station,8600769,S-tog,""Hundige Stationsvej, 2670 Greve Strand"",Linje E,Køge Bugt-banen,1976-01-01T00:00:00Z,55.598,12.334"
+"http://www.wikidata.org/entity/Q2796986,Åmarken Station,8600763,S-tog,""Åmarkvej 2, 2650 Hvidovre"",Linje A,Køge Bugt-banen,1972-01-01T00:00:00Z,55.64,12.5"
+"http://www.wikidata.org/entity/Q2803296,Skjern Station,8600205,,""Bredgade 55, 6900 Skjern"",Regionaltog,Skjern-Videbæk banen,1875-01-01T00:00:00Z,55.9476,8.49233"
+"http://www.wikidata.org/entity/Q2803296,Skjern Station,8600205,,""Bredgade 55, 6900 Skjern"",Regionaltog,Skanderborg-Skjern-banen,1875-01-01T00:00:00Z,55.9476,8.49233"
+"http://www.wikidata.org/entity/Q2803296,Skjern Station,8600205,,""Bredgade 55, 6900 Skjern"",Regionaltog,Den vestjyske længdebane,1875-01-01T00:00:00Z,55.9476,8.49233"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",InterCity,Vestbanen,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",Regionaltog,Vestbanen,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",InterCity,Sydbanen,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",Regionaltog,Sydbanen,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",InterCity,København-Køge-Ringsted-banen,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",Regionaltog,København-Køge-Ringsted-banen,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",InterCity,Sjællandske midtbane,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2879428,Ringsted Station,8600611,,""Jernbanevej 1, 4100 Ringsted"",Regionaltog,Sjællandske midtbane,1856-01-01T00:00:00Z,55.4381,11.7864"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",InterCity,Den fynske hovedbane,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",InterCityLyn,Den fynske hovedbane,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",Regionaltog,Den fynske hovedbane,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",InterCity,Fredericia-Aarhus-banen,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",InterCityLyn,Fredericia-Aarhus-banen,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",Regionaltog,Fredericia-Aarhus-banen,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",InterCity,Fredericia-Vamdrup-banen,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",InterCityLyn,Fredericia-Vamdrup-banen,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2883173,Fredericia Station,8600079,,""Jernbanegade 2B, 7000 Fredericia"",Regionaltog,Fredericia-Vamdrup-banen,1935-01-01T00:00:00Z,55.5683,9.74024"
+"http://www.wikidata.org/entity/Q2945351,Glostrup Station,8600622,S-tog,""Banegårdspladsen 5, 2600 Glostrup"",Linje B,Vestbanen,1847-01-01T00:00:00Z,55.662917,12.397222"
+"http://www.wikidata.org/entity/Q2945351,Glostrup Station,8600622,S-tog,""Banegårdspladsen 5, 2600 Glostrup"",Linje Bx,Vestbanen,1847-01-01T00:00:00Z,55.662917,12.397222"
+"http://www.wikidata.org/entity/Q2945351,Glostrup Station,8600622,S-tog,""Banegårdspladsen 5, 2600 Glostrup"",Linje B,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.662917,12.397222"
+"http://www.wikidata.org/entity/Q2945351,Glostrup Station,8600622,S-tog,""Banegårdspladsen 5, 2600 Glostrup"",Linje Bx,Høje Taastrup-banen,1847-01-01T00:00:00Z,55.662917,12.397222"
+"http://www.wikidata.org/entity/Q3048656,Kalundborg Station,8600727,,""Banegårdspladsen 2, 4400 Kalundborg"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6777,11.0896"
+"http://www.wikidata.org/entity/Q3077827,Emdrup Station,8600688,S-tog,""Tuborgvej 170, 2400 København NV"",Linje B,Hareskovbanen,1906-04-20T00:00:00Z,55.720556,12.541111"
+"http://www.wikidata.org/entity/Q3077827,Emdrup Station,8600688,S-tog,""Tuborgvej 170, 2400 København NV"",Linje Bx,Hareskovbanen,1906-04-20T00:00:00Z,55.720556,12.541111"
+"http://www.wikidata.org/entity/Q3105809,Husum Station,8600705,S-tog,""Islevhusvej 40, 2700 Brønshøj"",Linje H,Frederikssundbanen,1880-01-01T00:00:00Z,55.7095,12.464"
+"http://www.wikidata.org/entity/Q3105809,Husum Station,8600705,S-tog,""Islevhusvej 40, 2700 Brønshøj"",Linje C,Frederikssundbanen,1880-01-01T00:00:00Z,55.7095,12.464"
+"http://www.wikidata.org/entity/Q3111405,Skagen Station,8604115,,""Sankt Laurentii Vej 22, 9990 Skagen"",,Skagensbanen,1890-07-24T00:00:00Z,57.724,10.59168"
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje F,Ringbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje A,Ringbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje C,Ringbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje E,Ringbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Øresundstogtrafikken,Ringbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje F,Nordbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje A,Nordbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje C,Nordbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje E,Nordbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Øresundstogtrafikken,Nordbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje F,Klampenborgbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje A,Klampenborgbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje C,Klampenborgbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje E,Klampenborgbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Øresundstogtrafikken,Klampenborgbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje F,Kystbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje A,Kystbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje C,Kystbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Linje E,Kystbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+http://www.wikidata.org/entity/Q3248474,Hellerup Station,8600655,S-tog,,Øresundstogtrafikken,Kystbanen,1863-06-22T00:00:00Z,55.731111,12.566667
+"http://www.wikidata.org/entity/Q3260911,Birkerød Station,8600678,S-tog,""Stationsvej 5, 3460 Birkerød"",Linje A,Nordbanen,1864-01-01T00:00:00Z,55.840278,12.423889"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCity,Kolding-Egtved Jernbane,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCityLyn,Kolding-Egtved Jernbane,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",Regionaltog,Kolding-Egtved Jernbane,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCity,Kolding-Hejlsminde Banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCityLyn,Kolding-Hejlsminde Banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",Regionaltog,Kolding-Hejlsminde Banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCity,Fredericia-Vamdrup-banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCityLyn,Fredericia-Vamdrup-banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",Regionaltog,Fredericia-Vamdrup-banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCity,Kolding-Vamdrup-banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",InterCityLyn,Kolding-Vamdrup-banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3283910,Kolding Station,8600083,,""Banegårdspladsen 4, 6000 Kolding"",Regionaltog,Kolding-Vamdrup-banen,1884-01-01T00:00:00Z,55.49094,9.48202"
+"http://www.wikidata.org/entity/Q3430407,Rødby Færge Station,8600840,,""Færgestationsvej, 4970 Rødby"",Regionaltog,Sydbanen,1963-05-14T00:00:00Z,54.65447,11.3542"
+"http://www.wikidata.org/entity/Q3442416,Nakskov Station,8602623,,""Nørrevold 29, 4900 Nakskov"",,Lollandsbanen,1874-07-01T00:00:00Z,54.83337,11.13852"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",InterCity,Vestbanen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",Linje B,Vestbanen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",Linje Bx,Vestbanen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",InterCityLyn,Vestbanen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",Regionaltog,Vestbanen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",InterCity,Høje Taastrup-banen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",Linje B,Høje Taastrup-banen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",Linje Bx,Høje Taastrup-banen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",InterCityLyn,Høje Taastrup-banen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3505023,Høje Taastrup Station,8600798,S-tog,""Banestrøget 5, 2630 Tåstrup"",Regionaltog,Høje Taastrup-banen,1986-01-01T00:00:00Z,55.648611,12.269167"
+"http://www.wikidata.org/entity/Q3905843,Klampenborg Station,8600659,S-tog,""Dyrehavevej 1, 2930 Klampenborg"",Linje C,Klampenborgbanen,1863-01-01T00:00:00Z,55.777222,12.588056"
+"http://www.wikidata.org/entity/Q3905843,Klampenborg Station,8600659,S-tog,""Dyrehavevej 1, 2930 Klampenborg"",Øresundstogtrafikken,Klampenborgbanen,1863-01-01T00:00:00Z,55.777222,12.588056"
+"http://www.wikidata.org/entity/Q3905843,Klampenborg Station,8600659,S-tog,""Dyrehavevej 1, 2930 Klampenborg"",Linje C,Kystbanen,1863-01-01T00:00:00Z,55.777222,12.588056"
+"http://www.wikidata.org/entity/Q3905843,Klampenborg Station,8600659,S-tog,""Dyrehavevej 1, 2930 Klampenborg"",Øresundstogtrafikken,Kystbanen,1863-01-01T00:00:00Z,55.777222,12.588056"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCity,Randers-Hadsund Jernbane,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCityLyn,Randers-Hadsund Jernbane,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",Regionaltog,Randers-Hadsund Jernbane,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCity,Aarhus-Randers-banen,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCityLyn,Aarhus-Randers-banen,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",Regionaltog,Aarhus-Randers-banen,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCity,Randers-Aalborg Jernbane,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCityLyn,Randers-Aalborg Jernbane,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",Regionaltog,Randers-Aalborg Jernbane,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCity,Randers-Ryomgård-banen,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",InterCityLyn,Randers-Ryomgård-banen,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q3915966,Randers Station,8600040,,""Jernbanegade 29, 8900 Randers C"",Regionaltog,Randers-Ryomgård-banen,1862-01-01T00:00:00Z,56.4617,10.0219"
+"http://www.wikidata.org/entity/Q4289870,Holte Station,8600677,S-tog,""Stationsvej 36, 2840 Holte"",Linje A,Nordbanen,1864-01-01T00:00:00Z,55.8075,12.468333"
+"http://www.wikidata.org/entity/Q4289870,Holte Station,8600677,S-tog,""Stationsvej 36, 2840 Holte"",Linje E,Nordbanen,1864-01-01T00:00:00Z,55.8075,12.468333"
+"http://www.wikidata.org/entity/Q4289919,Vangede Station,8600689,S-tog,""Vangedevej 145, 2820 Gentofte"",Linje B,Hareskovbanen,1906-01-01T00:00:00Z,55.739444,12.523611"
+"http://www.wikidata.org/entity/Q4289919,Vangede Station,8600689,S-tog,""Vangedevej 145, 2820 Gentofte"",Linje Bx,Hareskovbanen,1906-01-01T00:00:00Z,55.739444,12.523611"
+"http://www.wikidata.org/entity/Q4301643,Ålholm Station,8600741,S-tog,""Roskildevej 131, 2500 Valby"",Linje F,Ringbanen,2005-01-08T00:00:00Z,55.671944,12.493194"
+"http://www.wikidata.org/entity/Q4596270,Allerød Station,8600681,S-tog,""Allerød Stationsvej 4A, 3450 Allerød"",Linje A,Nordbanen,1864-01-01T00:00:00Z,55.871,12.357"
+"http://www.wikidata.org/entity/Q4663239,Hjørring Station,8600009,,""Banegårdspladsen, 9800 Hjørring"",Regionaltog,Hirtshalsbanen,1871-01-01T00:00:00Z,57.4563,9.9864"
+"http://www.wikidata.org/entity/Q4663239,Hjørring Station,8600009,,""Banegårdspladsen, 9800 Hjørring"",Regionaltog,Vendsysselbanen,1871-01-01T00:00:00Z,57.4563,9.9864"
+"http://www.wikidata.org/entity/Q4851623,Ballerup Station,8600708,S-tog,""Banegårdspladsen 3, 2750 Ballerup"",Linje H,Frederikssundbanen,1879-06-15T00:00:00Z,55.7298,12.3582"
+"http://www.wikidata.org/entity/Q4851623,Ballerup Station,8600708,S-tog,""Banegårdspladsen 3, 2750 Ballerup"",Linje C,Frederikssundbanen,1879-06-15T00:00:00Z,55.7298,12.3582"
+"http://www.wikidata.org/entity/Q4855782,Troldhede Station,8600279,,""Jernbanegade 2, Troldhede, 6920 Videbæk"",Regionaltog,Skanderborg-Skjern-banen,1881-10-18T00:00:00Z,55.9907,8.74512"
+"http://www.wikidata.org/entity/Q4855782,Troldhede Station,8600279,,""Jernbanegade 2, Troldhede, 6920 Videbæk"",Regionaltog,Troldhede-Kolding-Vejen Jernbane,1881-10-18T00:00:00Z,55.9907,8.74512"
+"http://www.wikidata.org/entity/Q4858220,Taulov Station,8600081,,""Taulov Bygade, Taulov, 7000 Fredericia"",Regionaltog,Fredericia-Vamdrup-banen,1935-05-14T00:00:00Z,55.545,9.61604"
+"http://www.wikidata.org/entity/Q4986933,Rødekro Station,8600094,,""Banegårdspladsen 2, 6230 Rødekro"",InterCity,Aabenraabanen,1864-01-01T00:00:00Z,55.0695,9.3329"
+"http://www.wikidata.org/entity/Q4986933,Rødekro Station,8600094,,""Banegårdspladsen 2, 6230 Rødekro"",InterCityLyn,Aabenraabanen,1864-01-01T00:00:00Z,55.0695,9.3329"
+"http://www.wikidata.org/entity/Q4986933,Rødekro Station,8600094,,""Banegårdspladsen 2, 6230 Rødekro"",InterCity,Rødekro-Løgumkloster-Bredebro Jernbane,1864-01-01T00:00:00Z,55.0695,9.3329"
+"http://www.wikidata.org/entity/Q4986933,Rødekro Station,8600094,,""Banegårdspladsen 2, 6230 Rødekro"",InterCityLyn,Rødekro-Løgumkloster-Bredebro Jernbane,1864-01-01T00:00:00Z,55.0695,9.3329"
+"http://www.wikidata.org/entity/Q4986933,Rødekro Station,8600094,,""Banegårdspladsen 2, 6230 Rødekro"",InterCity,Vamdrup-Padborg-banen,1864-01-01T00:00:00Z,55.0695,9.3329"
+"http://www.wikidata.org/entity/Q4986933,Rødekro Station,8600094,,""Banegårdspladsen 2, 6230 Rødekro"",InterCityLyn,Vamdrup-Padborg-banen,1864-01-01T00:00:00Z,55.0695,9.3329"
+"http://www.wikidata.org/entity/Q4993887,Esbjerg Station,8600215,,""Jernbanegade 35, 6700 Esbjerg"",InterCity,Lunderskov-Esbjerg-banen,1874-01-01T00:00:00Z,55.46781,8.45879"
+"http://www.wikidata.org/entity/Q4993887,Esbjerg Station,8600215,,""Jernbanegade 35, 6700 Esbjerg"",Regionaltog,Lunderskov-Esbjerg-banen,1874-01-01T00:00:00Z,55.46781,8.45879"
+"http://www.wikidata.org/entity/Q4993887,Esbjerg Station,8600215,,""Jernbanegade 35, 6700 Esbjerg"",InterCity,Den vestjyske længdebane,1874-01-01T00:00:00Z,55.46781,8.45879"
+"http://www.wikidata.org/entity/Q4993887,Esbjerg Station,8600215,,""Jernbanegade 35, 6700 Esbjerg"",Regionaltog,Den vestjyske længdebane,1874-01-01T00:00:00Z,55.46781,8.45879"
+"http://www.wikidata.org/entity/Q4993889,Tinglev Station,8600097,,""Stationsvej 33, 6360 Tinglev"",InterCity,Tønder-Tinglev-banen,1864-04-14T00:00:00Z,54.93617,9.2583"
+"http://www.wikidata.org/entity/Q4993889,Tinglev Station,8600097,,""Stationsvej 33, 6360 Tinglev"",InterCityLyn,Tønder-Tinglev-banen,1864-04-14T00:00:00Z,54.93617,9.2583"
+"http://www.wikidata.org/entity/Q4993889,Tinglev Station,8600097,,""Stationsvej 33, 6360 Tinglev"",InterCity,Sønderborgbanen,1864-04-14T00:00:00Z,54.93617,9.2583"
+"http://www.wikidata.org/entity/Q4993889,Tinglev Station,8600097,,""Stationsvej 33, 6360 Tinglev"",InterCityLyn,Sønderborgbanen,1864-04-14T00:00:00Z,54.93617,9.2583"
+"http://www.wikidata.org/entity/Q4993889,Tinglev Station,8600097,,""Stationsvej 33, 6360 Tinglev"",InterCity,Vamdrup-Padborg-banen,1864-04-14T00:00:00Z,54.93617,9.2583"
+"http://www.wikidata.org/entity/Q4993889,Tinglev Station,8600097,,""Stationsvej 33, 6360 Tinglev"",InterCityLyn,Vamdrup-Padborg-banen,1864-04-14T00:00:00Z,54.93617,9.2583"
+"http://www.wikidata.org/entity/Q4993900,Thisted Station,8600404,,""Jernbanegade 29, 7700 Thisted"",Regionaltog,Thybanen,1881-04-20T00:00:00Z,56.95279,8.68795"
+"http://www.wikidata.org/entity/Q4993900,Thisted Station,8600404,,""Jernbanegade 29, 7700 Thisted"",Regionaltog,Thisted-Fjerritslev Jernbane,1881-04-20T00:00:00Z,56.95279,8.68795"
+http://www.wikidata.org/entity/Q4997738,Bunken Station,8604102,,,,Skagensbanen,1890-01-01T00:00:00Z,57.630555555556,10.439444444444
+"http://www.wikidata.org/entity/Q5080517,Nykøbing Sjælland Station,8603545,,""Jernbanevej 4, 4500 Nykøbing Sjælland"",,Odsherredsbanen,1899-01-01T00:00:00Z,55.9219,11.6739"
+"http://www.wikidata.org/entity/Q5086228,Charlottenlund Station,8600657,S-tog,""Stationspladsen 2, 2920 Charlottenlund"",Linje C,Klampenborgbanen,1863-07-22T00:00:00Z,55.751944,12.5725"
+http://www.wikidata.org/entity/Q5499343,Frederikshavnsvej Trinbræt,8604103,,,,Skagensbanen,1992-01-01T00:00:00Z,57.7247,10.5638
+"http://www.wikidata.org/entity/Q5520350,Egedal Station,8600956,S-tog,""Dronning Ingrids Vej, 3650 Ølstykke"",Linje C,Frederikssundbanen,2002-09-14T00:00:00Z,55.779722,12.185556"
+http://www.wikidata.org/entity/Q5936299,Hulsig Station,8604105,,,,Skagensbanen,1890-01-01T00:00:00Z,57.65951944,10.46325556
+"http://www.wikidata.org/entity/Q6319355,Jyllingevej Station,8600734,S-tog,""Jyllingevej 93, 2720 Vanløse"",Linje H,Frederikssundbanen,1949-05-15T00:00:00Z,55.6907,12.477"
+"http://www.wikidata.org/entity/Q6744384,Malmparken Station,8600756,S-tog,""Malmparken 10, 2750 Ballerup"",Linje H,Frederikssundbanen,1989-05-27T00:00:00Z,55.7246,12.386"
+"http://www.wikidata.org/entity/Q6744384,Malmparken Station,8600756,S-tog,""Malmparken 10, 2750 Ballerup"",Linje C,Frederikssundbanen,1989-05-27T00:00:00Z,55.7246,12.386"
+http://www.wikidata.org/entity/Q6965144,Napstjert Station,8604111,,,,Skagensbanen,1890-01-01T00:00:00Z,57.55445,10.40835
+"http://www.wikidata.org/entity/Q7061481,KB Hallen Station,8600740,S-tog,""Peter Bangs Vej 163A, 2000 Frederiksberg"",Linje F,Ringbanen,2005-01-08T00:00:00Z,55.677778,12.492333"
+"http://www.wikidata.org/entity/Q7100930,Ordrup Station,8600658,S-tog,""Schioldannsvej 21, 2920 Charlottenlund"",Linje C,Klampenborgbanen,1924-01-01T00:00:00Z,55.763056,12.583611"
+"http://www.wikidata.org/entity/Q7379866,Rungsted Kyst Station,8600663,,""Vestre Stationsvej 7, 2960 Rungsted Kyst"",Øresundstogtrafikken,Kystbanen,1897-01-01T00:00:00Z,55.8822,12.5317"
+"http://www.wikidata.org/entity/Q7536502,Skovlunde Station,8600707,S-tog,""Skovlunde Torv 4, 2740 Skovlunde"",Linje H,Frederikssundbanen,1882-01-01T00:00:00Z,55.72311,12.40193"
+"http://www.wikidata.org/entity/Q7536502,Skovlunde Station,8600707,S-tog,""Skovlunde Torv 4, 2740 Skovlunde"",Linje C,Frederikssundbanen,1882-01-01T00:00:00Z,55.72311,12.40193"
+"http://www.wikidata.org/entity/Q7607593,Stenløse Station,8600711,S-tog,""Stationspladsen 2, 3660 Stenløse"",Linje C,Frederikssundbanen,1882-02-18T00:00:00Z,55.767,12.19"
+http://www.wikidata.org/entity/Q7621261,Strandby Station,8604117,,,,Skagensbanen,1924-01-01T00:00:00Z,57.489825,10.490413888889
+"http://www.wikidata.org/entity/Q7918751,Veksø Station,8600710,S-tog,""Veksø Stationsvej 2, 3670 Veksø"",Linje C,Frederikssundbanen,1879-06-17T00:00:00Z,55.74992,12.24039"
+"http://www.wikidata.org/entity/Q8079213,Ølstykke Station,8600712,S-tog,""Stationsvej 2, 3650 Ølstykke"",Linje C,Frederikssundbanen,1879-06-17T00:00:00Z,55.7955,12.16"
+"http://www.wikidata.org/entity/Q9137918,Aalborg Vestby Station,8600117,,""Kastetvej/Strandvejen, 9000 Aalborg"",Regionaltog,Vendsysselbanen,2003-01-01T00:00:00Z,57.05308,9.90847"
+"http://www.wikidata.org/entity/Q9268439,Give Station,8600289,,""Allegade 10, 7323 Give"",InterCityLyn,Vejle-Holstebro-banen,1894-08-02T00:00:00Z,55.84301,9.2359"
+"http://www.wikidata.org/entity/Q9268439,Give Station,8600289,,""Allegade 10, 7323 Give"",Regionaltog,Vejle-Holstebro-banen,1894-08-02T00:00:00Z,55.84301,9.2359"
+"http://www.wikidata.org/entity/Q9293367,Holmstrup Station,8600511,,""Holmstrupvej 2B, 5250 Odense"",Regionaltog,Den fynske hovedbane,1865-01-01T00:00:00Z,55.362222222222,10.2725"
+"http://www.wikidata.org/entity/Q9310209,Ribe Station,8600423,,""Dagmarsgade 16, 6760 Ribe"",Regionaltog,Bramming-Tønder-banen,1875-01-01T00:00:00Z,55.327634,8.770304"
+"http://www.wikidata.org/entity/Q9337516,Skalborg Station,8600022,,""Stationsmestervej, 9200 Aalborg SV"",InterCity,Randers-Aalborg Jernbane,2003-01-01T00:00:00Z,57.00798,9.89801"
+"http://www.wikidata.org/entity/Q9337516,Skalborg Station,8600022,,""Stationsmestervej, 9200 Aalborg SV"",Regionaltog,Randers-Aalborg Jernbane,2003-01-01T00:00:00Z,57.00798,9.89801"
+"http://www.wikidata.org/entity/Q9369061,Vojens Station,8600091,,""Odinsplads 3, 6500 Vojens"",InterCity,Haderslevbanen,1864-01-01T00:00:00Z,55.248611111111,9.305"
+"http://www.wikidata.org/entity/Q9369061,Vojens Station,8600091,,""Odinsplads 3, 6500 Vojens"",InterCityLyn,Haderslevbanen,1864-01-01T00:00:00Z,55.248611111111,9.305"
+"http://www.wikidata.org/entity/Q9369061,Vojens Station,8600091,,""Odinsplads 3, 6500 Vojens"",InterCity,Vamdrup-Padborg-banen,1864-01-01T00:00:00Z,55.248611111111,9.305"
+"http://www.wikidata.org/entity/Q9369061,Vojens Station,8600091,,""Odinsplads 3, 6500 Vojens"",InterCityLyn,Vamdrup-Padborg-banen,1864-01-01T00:00:00Z,55.248611111111,9.305"
+"http://www.wikidata.org/entity/Q11796080,Odense Sygehus Station,8600526,,""Junggrensvej 1, 5000 Odense C"",Regionaltog,Svendborgbanen,1981-01-01T00:00:00Z,55.381388888889,10.366666666667"
+http://www.wikidata.org/entity/Q12009247,Vellingshøj Station,8601842,,,,Hirtshalsbanen,1925-01-01T00:00:00Z,57.480438888889,9.9686555555556
+http://www.wikidata.org/entity/Q12300305,Ålbæk Station,8604119,,,,Skagensbanen,1890-01-01T00:00:00Z,57.59261667,10.40824722
+"http://www.wikidata.org/entity/Q12300360,Aarup Station,8600506,,""Stationsvej 1, 5560 Aarup"",Regionaltog,Den fynske hovedbane,1865-09-07T00:00:00Z,55.383055555556,10.052222222222"
+"http://www.wikidata.org/entity/Q12301041,Alken Station,8600260,,""Alkenvej 44, 8680 Ry"",Regionaltog,Skanderborg-Skjern-banen,1871-05-02T00:00:00Z,56.05257,9.8456"
+http://www.wikidata.org/entity/Q12301308,Amstrup Station,8604801,,,,Lemvigbanen,1903-08-01T00:00:00Z,56.39071,8.32977
+"http://www.wikidata.org/entity/Q12302078,Arden Station,8600029,,""Jernbanegade 6, 9510 Arden"",InterCity,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,56.76944,9.86007"
+"http://www.wikidata.org/entity/Q12302078,Arden Station,8600029,,""Jernbanegade 6, 9510 Arden"",Regionaltog,Randers-Aalborg Jernbane,1869-01-01T00:00:00Z,56.76944,9.86007"
+http://www.wikidata.org/entity/Q12302118,Armose Station,8604814,,,,Lemvigbanen,1902-10-01T00:00:00Z,56.52932,8.26568
+"http://www.wikidata.org/entity/Q12302338,Asnæs Station,8603505,,""Rådhusvej 25, 4550 Asnæs"",,Odsherredsbanen,1899-05-17T00:00:00Z,55.80856,11.49945"
+http://www.wikidata.org/entity/Q12302348,Assedrup Station,,Aarhus Letbane,,Linje L2,Odderbanen,,56.00393,10.1824
+"http://www.wikidata.org/entity/Q12302494,Aulum Station,8600300,,""Jernbanegade 2, 7490 Aulum"",InterCityLyn,Vejle-Holstebro-banen,1904-10-11T00:00:00Z,56.26516,8.78818"
+"http://www.wikidata.org/entity/Q12302494,Aulum Station,8600300,,""Jernbanegade 2, 7490 Aulum"",Regionaltog,Vejle-Holstebro-banen,1904-10-11T00:00:00Z,56.26516,8.78818"
+http://www.wikidata.org/entity/Q12302554,Avnede Station,8602601,,,,Lollandsbanen,1874-07-01T00:00:00Z,54.82893,11.2153
+http://www.wikidata.org/entity/Q12302742,Bagmarken Station,8602506,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.5458,11.7022
+http://www.wikidata.org/entity/Q12302796,Balleby Station,8604803,,,,Lemvigbanen,1899-07-22T00:00:00Z,56.5476,8.24167
+http://www.wikidata.org/entity/Q12302986,Baunhøj Station,8604736,,,,Varde-Nørre Nebel Jernbane,1942-01-01T00:00:00Z,55.6358,8.28306
+http://www.wikidata.org/entity/Q12303018,Beder Station,,Aarhus Letbane,,Linje L2,Odderbanen,1884-01-01T00:00:00Z,56.0569,10.1981
+"http://www.wikidata.org/entity/Q12303026,Bedsted Thy Station,8600398,,""Linnetsgade 2, 7755 Bedsted"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.80667,8.40776"
+http://www.wikidata.org/entity/Q12303461,Billum Station,8604701,,,,Varde-Nørre Nebel Jernbane,1903-01-01T00:00:00Z,55.61688,8.33144
+"http://www.wikidata.org/entity/Q12303533,Birk Centerpark Station,8600269,,""Birk Centerpark 42, 7400 Herning"",Regionaltog,Skanderborg-Skjern-banen,1997-01-01T00:00:00Z,56.12529,9.02962"
+"http://www.wikidata.org/entity/Q12303702,Bjerringbro Station,8600172,,""Storegade 4, 8850 Bjerringbro"",Regionaltog,Langå-Struer-banen,1863-07-21T00:00:00Z,56.37418,9.65855"
+http://www.wikidata.org/entity/Q12304101,Bonnet Station,8604805,,,,Lemvigbanen,1879-07-20T00:00:00Z,56.5208,8.22296
+"http://www.wikidata.org/entity/Q12304121,Bording Station,8600271,,""Jernbanevej 2, 7441 Bording"",Regionaltog,Skanderborg-Skjern-banen,1877-01-01T00:00:00Z,56.14672,9.27857"
+"http://www.wikidata.org/entity/Q12304194,Borris Station,8600280,,""Borgergade 1B, Borris, 6900 Skjern"",Regionaltog,Skanderborg-Skjern-banen,1881-10-18T00:00:00Z,55.95841,8.64445"
+"http://www.wikidata.org/entity/Q12304203,Borup Station,8600614,,""Hovedgaden 15, 4140 Borup"",Regionaltog,Vestbanen,1856-04-27T00:00:00Z,55.494444444444,11.972222222222"
+http://www.wikidata.org/entity/Q12304224,Boulevarden Station,8604702,,,,Varde-Nørre Nebel Jernbane,1987-01-01T00:00:00Z,55.6238,8.46
+"http://www.wikidata.org/entity/Q12304298,Bred Station,8600507,,""Stationsvej 2A, 5492 Vissenbjerg"",Regionaltog,Den fynske hovedbane,,55.373333333333,10.105555555556"
+http://www.wikidata.org/entity/Q12304303,Brede Station,8603001,,,,Nærumbanen,1900-08-25T00:00:00Z,55.7936,12.5008
+"http://www.wikidata.org/entity/Q12304305,Bredebro Station,8600430,,""Jernbanegade 4, 6261 Bredebro"",Regionaltog,Bramming-Tønder-banen,1887-11-15T00:00:00Z,55.05681,8.82309"
+"http://www.wikidata.org/entity/Q12304305,Bredebro Station,8600430,,""Jernbanegade 4, 6261 Bredebro"",Regionaltog,Rødekro-Løgumkloster-Bredebro Jernbane,1887-11-15T00:00:00Z,55.05681,8.82309"
+"http://www.wikidata.org/entity/Q12304336,Brejning Station,8600076,,""Stationsvej 97, Brejning, 7080 Børkop"",Regionaltog,Fredericia-Aarhus-banen,1868-10-04T00:00:00Z,55.6664,9.65917"
+http://www.wikidata.org/entity/Q12304533,Brødeskov Station,8601705,,,,Frederiksværkbanen,1950-05-14T00:00:00Z,55.89336,12.27905
+"http://www.wikidata.org/entity/Q12304567,Brønderslev Station,8600015,,""Banegårdspladsen 10-12, 9700 Brønderslev"",Regionaltog,Vendsysselbanen,1871-01-01T00:00:00Z,57.2704,9.9423"
+"http://www.wikidata.org/entity/Q12304574,Brøns Station,8600426,,""Tingvej, Brøns, 6780 Skærbæk"",Regionaltog,Bramming-Tønder-banen,,55.1947,8.7408"
+"http://www.wikidata.org/entity/Q12304583,Brørup Station,8600222,,""Jernbanegade 1, 6650 Brørup"",Regionaltog,Lunderskov-Esbjerg-banen,1874-10-03T00:00:00Z,55.48266,9.01603"
+"http://www.wikidata.org/entity/Q12304647,Bur Station,8600195,,""Bygaden 25, 7570 Vemb"",Regionaltog,Den vestjyske længdebane,1875-03-31T00:00:00Z,56.3677,8.42773"
+http://www.wikidata.org/entity/Q12304780,Bækmarksbro Station,8604807,,,,Lemvigbanen,1879-07-20T00:00:00Z,56.41199,8.30806
+"http://www.wikidata.org/entity/Q12304864,Børkop Station,8600077,,""Jernbanegade 2, 7080 Børkop"",Regionaltog,Fredericia-Aarhus-banen,1868-10-04T00:00:00Z,55.64217,9.65207"
+"http://www.wikidata.org/entity/Q12308572,Dianalund Station,8602501,,""Stationsvej 3, 4293 Dianalund"",,Tølløsebanen,1901-12-22T00:00:00Z,55.53394,11.49963"
+http://www.wikidata.org/entity/Q12308992,Dronningmølle Station,8601601,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0978,12.3875
+http://www.wikidata.org/entity/Q12309039,Duemose Station,8601401,,,,Gribskovbanen,1897-06-16T00:00:00Z,56.0093,12.2623
+http://www.wikidata.org/entity/Q12309110,Dyreby Station,8604704,,,,Varde-Nørre Nebel Jernbane,1945-01-01T00:00:00Z,55.70001,8.29818
+http://www.wikidata.org/entity/Q12309132,Dyssekilde Station,,,,,Frederiksværkbanen,1916-12-22T00:00:00Z,55.9852,11.9423
+"http://www.wikidata.org/entity/Q12309183,Døstrup Sønderjylland Station,8600428,,""Bygaden 4, 6780 Skærbæk"",Regionaltog,Bramming-Tønder-banen,,55.117544879292,8.807813821882"
+http://www.wikidata.org/entity/Q12309518,Egøje Station,8600901,,,,Østbanen,1928-05-15T00:00:00Z,55.423611111111,12.19
+"http://www.wikidata.org/entity/Q12309587,Ejby Station,8600504,,""Jernbanevej 2, 5592 Ejby"",Regionaltog,Den fynske hovedbane,1865-09-07T00:00:00Z,55.42875,9.93"
+http://www.wikidata.org/entity/Q12310018,Emmersbæk Station,8601801,,,,Hirtshalsbanen,1925-01-01T00:00:00Z,57.572097222222,9.9776027777778
+"http://www.wikidata.org/entity/Q12310133,Engesvang Station,8600270,,""Jernbanegade 18, 7442 Engesvang"",Regionaltog,Skanderborg-Skjern-banen,1877-01-01T00:00:00Z,56.16782,9.35172"
+"http://www.wikidata.org/entity/Q12310622,Eskilstrup Station,8600822,,""Eskilstrup Jernbanegade 2, 4863 Eskilstrup"",Regionaltog,Sydbanen,1872-08-22T00:00:00Z,54.85607,11.88538"
+"http://www.wikidata.org/entity/Q12310642,Espergærde Station,8600667,,""Kløvermarken 3, 3060 Espergærde"",Øresundstogtrafikken,Kystbanen,1898-05-01T00:00:00Z,55.995833,12.549722"
+"http://www.wikidata.org/entity/Q12310982,Faxe Ladeplads Station,8601013,,""Postvej 3, 4654 Faxe Ladeplads"",,Østbanen,1864-01-01T00:00:00Z,55.217069444444,12.162019444444"
+http://www.wikidata.org/entity/Q12310984,Faxe Syd Station,8601014,,,,Østbanen,1864-01-01T00:00:00Z,55.2423,12.1368
+http://www.wikidata.org/entity/Q12311254,Festivalpladsen Trinbræt,8600794,,,,Lille Syd,,55.6222,12.07
+http://www.wikidata.org/entity/Q12311425,Firhøj Station,8601603,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0982,12.3547
+http://www.wikidata.org/entity/Q12311476,Fjellenstrup Station,8601402,,,,Gribskovbanen,1982-12-09T00:00:00Z,56.1163,12.2984
+"http://www.wikidata.org/entity/Q12312492,Fredensborg Station,8600685,,""Stationsvej 2, 3480 Fredensborg"",,Lille Nord,1864-07-08T00:00:00Z,55.9772,12.4068"
+"http://www.wikidata.org/entity/Q12312837,Frederiksværk Station,,,""Stationspladsen 1, 3300 Frederiksværk"",,Frederiksværkbanen,1897-05-31T00:00:00Z,55.9686,12.0195"
+http://www.wikidata.org/entity/Q12313001,Frisvadvej Station,8604706,,,,Varde-Nørre Nebel Jernbane,1962-01-01T00:00:00Z,55.6278,8.48667
+"http://www.wikidata.org/entity/Q12313084,Fruens Bøge Station,8600533,,""Fruens Bøge Skov 4, 5250 Odense SV"",Regionaltog,Odense-Nørre Broby-Faaborg Jernbane,1876-07-12T00:00:00Z,55.3697,10.3775"
+"http://www.wikidata.org/entity/Q12313084,Fruens Bøge Station,8600533,,""Fruens Bøge Skov 4, 5250 Odense SV"",Regionaltog,Svendborgbanen,1876-07-12T00:00:00Z,55.3697,10.3775"
+http://www.wikidata.org/entity/Q12313148,Fuglevad Station,8603003,,,,Nærumbanen,1900-08-25T00:00:00Z,55.785,12.4974
+http://www.wikidata.org/entity/Q12313179,Funder Station,,,,,Skanderborg-Skjern-banen,,56.1363,9.46567
+http://www.wikidata.org/entity/Q12313262,Fåre Station,8604811,,,,Lemvigbanen,1879-07-20T00:00:00Z,56.4537,8.26171
+http://www.wikidata.org/entity/Q12313266,Fårevejle Station,8603513,,,,Odsherredsbanen,1899-05-17T00:00:00Z,55.78807,11.46971
+"http://www.wikidata.org/entity/Q12313419,Gadstrup Station,8600800,,""Stationsvej 1, 4621 Gadstrup"",Regionaltog,Lille Syd,1870-10-04T00:00:00Z,55.572777777778,12.099444444444"
+"http://www.wikidata.org/entity/Q12313592,Gelsted Station,8600505,,""Banevolden 4, 5591 Gelsted"",Regionaltog,Den fynske hovedbane,1865-09-07T00:00:00Z,55.396111111111,9.9744444444444"
+"http://www.wikidata.org/entity/Q12313890,Gilleleje Station,8601403,,""Gilleleje Stationsvej 10, 3250 Gilleleje"",,Hornbækbanen,1875-01-01T00:00:00Z,56.12341,12.30246"
+"http://www.wikidata.org/entity/Q12313890,Gilleleje Station,8601403,,""Gilleleje Stationsvej 10, 3250 Gilleleje"",,Gribskovbanen,1875-01-01T00:00:00Z,56.12341,12.30246"
+http://www.wikidata.org/entity/Q12313889,Gilleleje Øst Station,8601604,,,,Hornbækbanen,1916-06-11T00:00:00Z,56.1229,12.3088
+http://www.wikidata.org/entity/Q12313916,Gislinge Station,8603515,,,,Odsherredsbanen,1899-05-17T00:00:00Z,55.7297,11.5469
+"http://www.wikidata.org/entity/Q12313968,Gjesing Station,8600228,,""Stormgade 161, 6710 Esbjerg"",Regionaltog,Den vestjyske længdebane,1874-10-03T00:00:00Z,55.5096,8.45729"
+"http://www.wikidata.org/entity/Q12314061,Glumsø Station,8600773,,""Stationsvej 9, 4171 Glumsø"",Regionaltog,Sydbanen,1924-06-01T00:00:00Z,55.35365,11.6956"
+"http://www.wikidata.org/entity/Q12314061,Glumsø Station,8600773,,""Stationsvej 9, 4171 Glumsø"",Regionaltog,Sjællandske midtbane,1924-06-01T00:00:00Z,55.35365,11.6956"
+http://www.wikidata.org/entity/Q12314083,Godhavn Station,8601405,,,,Gribskovbanen,1924-07-18T00:00:00Z,56.0599,12.0972
+"http://www.wikidata.org/entity/Q12314245,Gredstedbro Station,8600421,,""Andelsgade 5, 6771 Gredstedbro"",Regionaltog,Bramming-Tønder-banen,1875-05-01T00:00:00Z,55.3974,8.74116"
+http://www.wikidata.org/entity/Q12314326,Grevinge Station,,,,,Odsherredsbanen,1899-05-17T00:00:00Z,55.8029,11.5514
+http://www.wikidata.org/entity/Q12314353,Gribsø Station,8601407,,,,Gribskovbanen,1880-01-20T00:00:00Z,55.9874,12.3018
+http://www.wikidata.org/entity/Q12314361,Grimstrup Trinbræt,,,,,Frederiksværkbanen,1897-05-31T00:00:00Z,55.9156,12.1025
+http://www.wikidata.org/entity/Q12314388,Grubberholm Station,8600903,,,,Østbanen,1881-06-19T00:00:00Z,55.380277777778,12.200555555556
+"http://www.wikidata.org/entity/Q12314436,Gråsten Station,8600322,,""Kongevej 73, 6300 Gråsten"",InterCityLyn,Sønderborgbanen,1899-01-01T00:00:00Z,54.9189,9.5939"
+http://www.wikidata.org/entity/Q12314441,Grænge Station,8602605,,,,Lollandsbanen,,54.77407,11.76509
+http://www.wikidata.org/entity/Q12314467,Græsted Station,8601409,,,,Gribskovbanen,1880-01-20T00:00:00Z,56.0726,12.2868
+http://www.wikidata.org/entity/Q12314468,Græsted Syd Station,8601428,,,,Gribskovbanen,1991-04-30T00:00:00Z,56.0631,12.2956
+http://www.wikidata.org/entity/Q12314493,Grønholt Station,8600777,,,,Lille Nord,1934-01-01T00:00:00Z,55.9526,12.3703
+http://www.wikidata.org/entity/Q12314516,Grønnehave Station,8601606,,,,Hornbækbanen,1906-01-01T00:00:00Z,56.0404,12.6112
+"http://www.wikidata.org/entity/Q12314577,Guldager Station,8600214,,""Guldager Stationsvej 101, 6710 Guldager"",Regionaltog,Den vestjyske længdebane,1874-10-03T00:00:00Z,55.5361,8.44036"
+http://www.wikidata.org/entity/Q12314625,Gunnar Clausensvej Station,860150902,Aarhus Letbane,,Linje L2,Odderbanen,1975-01-01T00:00:00Z,56.1116,10.126
+"http://www.wikidata.org/entity/Q12314768,Gårde Station,8600209,,""Stationsbakken 24, 6870 Ølgod"",Regionaltog,Den vestjyske længdebane,,55.7656,8.61167"
+"http://www.wikidata.org/entity/Q12314807,Gørding Station,8600220,,""Jernbanegade 2, 6690 Gørding"",Regionaltog,Lunderskov-Esbjerg-banen,1874-10-03T00:00:00Z,55.46956,8.80117"
+http://www.wikidata.org/entity/Q12314810,Gørløse Station,,,,,Frederiksværkbanen,1950-05-14T00:00:00Z,55.8867,12.2025
+"http://www.wikidata.org/entity/Q12314975,Hadsten Station,8600047,,""Østergade 2, 8370 Hadsten"",InterCity,Den østjyske længdebane,1862-01-01T00:00:00Z,56.32719,10.04777"
+"http://www.wikidata.org/entity/Q12314975,Hadsten Station,8600047,,""Østergade 2, 8370 Hadsten"",Regionaltog,Den østjyske længdebane,1862-01-01T00:00:00Z,56.32719,10.04777"
+"http://www.wikidata.org/entity/Q12315135,Hammerum Station,8600274,,""Jernbanegade 7, 7400 Herning"",Regionaltog,Skanderborg-Skjern-banen,1872-01-01T00:00:00Z,56.13176,9.06325"
+http://www.wikidata.org/entity/Q12315160,Hanehoved Trinbræt,,,,,Frederiksværkbanen,1922-01-01T00:00:00Z,55.97531,12.0009
+http://www.wikidata.org/entity/Q12315702,Harboøre Station,8604813,,,,Lemvigbanen,1899-07-22T00:00:00Z,56.62053,8.17883
+"http://www.wikidata.org/entity/Q12315783,Haslev Station,8600807,,""Stationspladsen 1A, 4690 Haslev"",Regionaltog,Lille Syd,1870-10-04T00:00:00Z,55.3294,11.9609"
+"http://www.wikidata.org/entity/Q12315826,Havdrup Station,8600801,,""Stationspladsen 3, 4622 Havdrup"",Regionaltog,Lille Syd,1870-10-04T00:00:00Z,55.5436,12.1169"
+"http://www.wikidata.org/entity/Q12315895,Hedehusene Station,8600619,,""Hovedgaden 437, 2640 Hedehusene"",Regionaltog,Vestbanen,1917-01-01T00:00:00Z,55.6486,12.1975"
+"http://www.wikidata.org/entity/Q12315902,Hedensted Station,8600071,,""Stationsvej 3, 8722 Hedensted"",Regionaltog,Fredericia-Aarhus-banen,1868-10-04T00:00:00Z,55.76852,9.69888"
+"http://www.wikidata.org/entity/Q12315917,Hee Station,8600199,,""Ringgaden 3, 6950 Ringkøbing"",Regionaltog,Den vestjyske længdebane,1875-08-08T00:00:00Z,56.144,8.2868"
+http://www.wikidata.org/entity/Q12316088,Hellebæk Station,8601607,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0665,12.5543
+"http://www.wikidata.org/entity/Q12316163,Helsinge Station,8601411,,""Stationspladsen 1, 3200 Helsinge"",,Gribskovbanen,1897-06-16T00:00:00Z,56.0231,12.2056"
+http://www.wikidata.org/entity/Q12316210,Henne Station,8604711,,,,Varde-Nørre Nebel Jernbane,1903-01-01T00:00:00Z,55.71036,8.30441
+"http://www.wikidata.org/entity/Q12316551,Herfølge Station,8600805,,""Stationsvej 16, 4681 Herfølge"",Regionaltog,Lille Syd,1908-01-01T00:00:00Z,55.4177,12.1372"
+"http://www.wikidata.org/entity/Q12316628,Herning Messecenter Station,8600276,,""Baggeskærvej 10, 7400 Herning"",Regionaltog,Skanderborg-Skjern-banen,1997-01-01T00:00:00Z,56.12361,8.94435"
+http://www.wikidata.org/entity/Q12316672,Herregårdsparken Station,8601802,,,,Hirtshalsbanen,2004-01-01T00:00:00Z,57.473222222222,9.965875
+http://www.wikidata.org/entity/Q12316772,Himlingøje Station,8600904,,,,Østbanen,1926-09-20T00:00:00Z,55.3725,12.215833333333
+"http://www.wikidata.org/entity/Q12316812,Hinnerup Station,8600048,,""Skovvej 18, 8382 Hinnerup"",Regionaltog,Den østjyske længdebane,1862-01-01T00:00:00Z,56.2631,10.0596"
+"http://www.wikidata.org/entity/Q12316853,Hjallese Station,8600559,,""Vinkelvej 6, 5260 Odense SØ"",Regionaltog,Svendborgbanen,1876-07-12T00:00:00Z,55.3582,10.39274"
+"http://www.wikidata.org/entity/Q12316893,Hjerm Station,8600191,,""Jernbanegade 2, 7560 Hjerm"",Regionaltog,Den vestjyske længdebane,1866-11-01T00:00:00Z,56.43901,8.63979"
+http://www.wikidata.org/entity/Q12316933,Hjortshøj Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1877-01-01T00:00:00Z,56.2447,10.2688
+http://www.wikidata.org/entity/Q12317108,Holløse Station,8601417,,,,Gribskovbanen,1924-07-18T00:00:00Z,56.05953,12.11783
+"http://www.wikidata.org/entity/Q12317118,Holme-Olstrup Station,8600809,,""Petersmindevej 118A, 4684 Holme-Olstrup"",Regionaltog,Lille Syd,1870-10-04T00:00:00Z,55.261002777778,11.848908333333"
+"http://www.wikidata.org/entity/Q12317158,Holsted Station,8600221,,""Storegade 40, 6670 Holsted"",Regionaltog,Lunderskov-Esbjerg-banen,1874-10-03T00:00:00Z,55.48478,8.91413"
+http://www.wikidata.org/entity/Q12317219,Hornbæk Station,8601613,,,,Hornbækbanen,1906-01-01T00:00:00Z,56.0893,12.4595
+http://www.wikidata.org/entity/Q12317223,Horne Station,8601813,,,,Hirtshalsbanen,1925-01-01T00:00:00Z,57.559352777778,9.9725472222222
+http://www.wikidata.org/entity/Q12317225,Horneby Sand Station,8601615,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0899,12.4356
+http://www.wikidata.org/entity/Q12317233,Hornslet Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1877-12-01T00:00:00Z,56.3206,10.3136
+http://www.wikidata.org/entity/Q12317372,Hovmarken Station,,Aarhus Letbane,,Linje L1,Grenaabanen,,56.23422,10.25561
+"http://www.wikidata.org/entity/Q12317425,Humlebæk Station,8600666,,""Hal Kochs Vej 14, 3050 Humlebæk"",Øresundstogtrafikken,Kystbanen,1897-01-01T00:00:00Z,55.9639,12.5331"
+"http://www.wikidata.org/entity/Q12317437,Humlum Station,8600390,,""Jernbanestien, Humlum, 7600 Struer"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.5403,8.55237"
+http://www.wikidata.org/entity/Q12317452,Hundested Havn Station,,,,,Frederiksværkbanen,1928-01-01T00:00:00Z,55.9658,11.8461
+"http://www.wikidata.org/entity/Q12317477,Hurup Thy Station,8600397,,""Jernbanegade 4, 7760 Hurup Thy"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.75121,8.41804"
+"http://www.wikidata.org/entity/Q12317518,Hvalsø Station,8600716,,""Tølløsevej 1A, 4330 Hvalsø"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.59535,11.85907"
+"http://www.wikidata.org/entity/Q12317518,Hvalsø Station,8600716,,""Tølløsevej 1A, 4330 Hvalsø"",Regionaltog,Sjællandske midtbane,1874-12-30T00:00:00Z,55.59535,11.85907"
+"http://www.wikidata.org/entity/Q12317541,Hvidbjerg Station,8600394,,""Bredgade 2, 7790 Thyholm"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.64983,8.52653"
+"http://www.wikidata.org/entity/Q12317558,Hviding Station,8600424,,""Ribevej 27, Egebæk, 6760 Ribe"",Regionaltog,Bramming-Tønder-banen,,55.27452,8.73018"
+http://www.wikidata.org/entity/Q12317622,Hyllerslev Station,8604715,,,,Varde-Nørre Nebel Jernbane,1903-03-14T00:00:00Z,55.6263,8.40069
+"http://www.wikidata.org/entity/Q12317681,Hårlev Station,8600905,,""Hårlev Stationsvej 2, 4652 Hårlev"",,Østbanen,1879-07-01T00:00:00Z,55.351388888889,12.2275"
+"http://www.wikidata.org/entity/Q12317747,Højby Sjælland Station,8603525,,""Højby Stationsvej 1, 4573 Højby"",,Odsherredsbanen,1899-05-17T00:00:00Z,55.91062,11.60368"
+http://www.wikidata.org/entity/Q12317748,Højby Station,8603525,,,Regionaltog,Svendborgbanen,1876-07-12T00:00:00Z,55.32984,10.4342
+"http://www.wikidata.org/entity/Q12342400,Islev Station,8600704,S-tog,""Slotsherrensvej 137, 2720 Vanløse"",Linje H,Frederikssundbanen,1949-05-15T00:00:00Z,55.699,12.4693"
+"http://www.wikidata.org/entity/Q12317793,Højslev Station,8600182,,""Søbyvej, 7840 Højslev"",Regionaltog,Langå-Struer-banen,1865-10-17T00:00:00Z,56.54911,9.11076"
+http://www.wikidata.org/entity/Q12317799,Højstrup Station,8601617,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0472,12.594
+"http://www.wikidata.org/entity/Q12317822,Hørdum Station,8600400,,""Sportsvej, Hørdum, 7752 Snedsted"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.8508,8.49052"
+"http://www.wikidata.org/entity/Q12317829,Hørning Station,8600059,,""Fregerslevvej 3, 8362 Hørning"",Regionaltog,Den østjyske længdebane,1868-01-01T00:00:00Z,56.0822,10.0378"
+http://www.wikidata.org/entity/Q12317845,Hørve Station,8603527,,,,Hørve-Værslev Jernbane,1899-01-01T00:00:00Z,55.7526,11.4562
+http://www.wikidata.org/entity/Q12317845,Hørve Station,8603527,,,,Odsherredsbanen,1899-01-01T00:00:00Z,55.7526,11.4562
+"http://www.wikidata.org/entity/Q12318120,Ikast Station,8600273,,""Lille Torv 3, 7430 Ikast"",Regionaltog,Skanderborg-Skjern-banen,1872-01-01T00:00:00Z,56.1448,9.15528"
+http://www.wikidata.org/entity/Q12319085,Janderup Station,8604717,,,,Varde-Nørre Nebel Jernbane,1903-01-01T00:00:00Z,55.6228,8.37417
+http://www.wikidata.org/entity/Q12319190,Jegum Station,8604718,,,,Varde-Nørre Nebel Jernbane,1992-01-01T00:00:00Z,55.6647,8.30167
+"http://www.wikidata.org/entity/Q12319194,Jelling Station,8600285,,""Jernbanevej 3, 7300 Jelling"",InterCityLyn,Vejle-Holstebro-banen,1894-08-02T00:00:00Z,55.75402,9.4199"
+"http://www.wikidata.org/entity/Q12319194,Jelling Station,8600285,,""Jernbanevej 3, 7300 Jelling"",Regionaltog,Vejle-Holstebro-banen,1894-08-02T00:00:00Z,55.75402,9.4199"
+http://www.wikidata.org/entity/Q12319600,Jerup Station,8604109,,,,Skagensbanen,1890-01-01T00:00:00Z,57.532275,10.417136111111
+"http://www.wikidata.org/entity/Q12320633,Jyderup Station,8600723,,""Skarridsøgade 38, 4450 Jyderup"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6603,11.398"
+http://www.wikidata.org/entity/Q12321032,Kagerup Station,8601421,,,,Gribskovbanen,1880-01-20T00:00:00Z,55.99747,12.28606
+http://www.wikidata.org/entity/Q12321358,Karinebæk Station,8601620,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0831,12.4686
+http://www.wikidata.org/entity/Q12321359,Karise Station,8601025,,,,Østbanen,1879-07-01T00:00:00Z,55.307002777778,12.195825
+"http://www.wikidata.org/entity/Q12321605,Kauslunde Station,8600502,,""Heimdalsvej, Kauslunde, 5500 Middelfart"",Regionaltog,Den fynske hovedbane,1865-01-01T00:00:00Z,55.475833333333,9.8111111111111"
+"http://www.wikidata.org/entity/Q12321759,Kibæk Station,8600278,,""Jernbanegade 1, 6933 Kibæk"",Regionaltog,Skanderborg-Skjern-banen,1881-10-18T00:00:00Z,56.03233,8.85212"
+"http://www.wikidata.org/entity/Q12321787,Kildedal Station,8600955,S-tog,""Kildedalsvej 1, 2760 Stenløse"",Linje C,Frederikssundbanen,2000-11-25T00:00:00Z,55.752,12.286"
+http://www.wikidata.org/entity/Q12321793,Kildekrog Station,8601621,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0925,12.4242
+http://www.wikidata.org/entity/Q12322154,Klinkby Station,8604815,,,,Lemvigbanen,1899-07-22T00:00:00Z,56.565,8.22028
+"http://www.wikidata.org/entity/Q12322167,Kliplev Station,8600318,,""Kliplev Hovedgade 45, 8200 Aabenraa"",InterCityLyn,Sønderborgbanen,1901-01-01T00:00:00Z,54.9351,9.39778"
+http://www.wikidata.org/entity/Q12322175,Klippinge Station,8601027,,,,Østbanen,1879-07-01T00:00:00Z,55.346388888889,12.325277777778
+"http://www.wikidata.org/entity/Q12322230,Knabstrup Station,8600721,,""Stationsvej 1, 4440 Mørkøv"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6649,11.5535"
+"http://www.wikidata.org/entity/Q12322428,Kokkedal Station,8600664,,""Kokkedal Stationsvej 6, 2970 Hørsholm"",Øresundstogtrafikken,Kystbanen,1906-01-01T00:00:00Z,55.903611111111,12.502222222222"
+http://www.wikidata.org/entity/Q12322467,Kolind Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1876-08-26T00:00:00Z,56.36288,10.58764
+http://www.wikidata.org/entity/Q12322467,Kolind Station,,Aarhus Letbane,,Linje L1,Randers-Ryomgård-Grenaa-banen,1876-08-26T00:00:00Z,56.36288,10.58764
+http://www.wikidata.org/entity/Q12322788,Kr. Eskilstrup Station,8602505,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.5738,11.7648
+http://www.wikidata.org/entity/Q12322817,Kratbjerg Station,8600684,,,,Lille Nord,2008-01-01T00:00:00Z,55.9678,12.3933
+http://www.wikidata.org/entity/Q12322837,Kregme Station,,,,,Frederiksværkbanen,1897-05-31T00:00:00Z,55.9348,12.047
+"http://www.wikidata.org/entity/Q12323244,Kvissel Station,8600005,,""Tolnevej 1, Kvissel, 9900 Frederikshavn"",Regionaltog,Vendsysselbanen,1871-01-01T00:00:00Z,57.47193,10.41279"
+http://www.wikidata.org/entity/Q12323245,Kvistgård Station,8600686,,,,Lille Nord,1864-07-08T00:00:00Z,55.9906,12.5029
+http://www.wikidata.org/entity/Q12323258,Kvægtorvet Station,8601819,,,,Hirtshalsbanen,2005-01-01T00:00:00Z,57.454569444444,9.9760194444444
+"http://www.wikidata.org/entity/Q12323263,Kværndrup Station,8600565,,""Banepladsen 2, 5772 Kværndrup"",Regionaltog,Svendborgbanen,1876-01-01T00:00:00Z,55.1781,10.5189"
+http://www.wikidata.org/entity/Q12323445,Køge Nord Station,8600797,S-tog,,InterCity,København-Køge-Ringsted-banen,2019-01-01T00:00:00Z,55.49963,12.1726
+http://www.wikidata.org/entity/Q12323445,Køge Nord Station,8600797,S-tog,,Linje E,København-Køge-Ringsted-banen,2019-01-01T00:00:00Z,55.49963,12.1726
+http://www.wikidata.org/entity/Q12323445,Køge Nord Station,8600797,S-tog,,Regionaltog,København-Køge-Ringsted-banen,2019-01-01T00:00:00Z,55.49963,12.1726
+http://www.wikidata.org/entity/Q12323445,Køge Nord Station,8600797,S-tog,,InterCity,Køge Bugt-banen,2019-01-01T00:00:00Z,55.49963,12.1726
+http://www.wikidata.org/entity/Q12323445,Køge Nord Station,8600797,S-tog,,Linje E,Køge Bugt-banen,2019-01-01T00:00:00Z,55.49963,12.1726
+http://www.wikidata.org/entity/Q12323445,Køge Nord Station,8600797,S-tog,,Regionaltog,Køge Bugt-banen,2019-01-01T00:00:00Z,55.49963,12.1726
+http://www.wikidata.org/entity/Q12323735,Langerød Station,8600778,,,,Lille Nord,1864-01-01T00:00:00Z,55.9812,12.4511
+"http://www.wikidata.org/entity/Q12323738,Langeskov Station,8600515,,""Centervej 1, 5550 Langeskov"",InterCity,Den fynske hovedbane,1865-01-01T00:00:00Z,55.3617196,10.5866697"
+"http://www.wikidata.org/entity/Q12323738,Langeskov Station,8600515,,""Centervej 1, 5550 Langeskov"",InterCity,Den fynske hovedbane,2015-01-01T00:00:00Z,55.3617196,10.5866697"
+"http://www.wikidata.org/entity/Q12324089,Laven Station,8600263,,""Himmelbjergvej 106R, 8600 Silkeborg"",Regionaltog,Skanderborg-Skjern-banen,1871-05-02T00:00:00Z,56.12475,9.71761"
+"http://www.wikidata.org/entity/Q12324210,Lejre Station,8600715,,""Stationsvej 2, 4320 Lejre"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6046,11.9714"
+"http://www.wikidata.org/entity/Q12324227,Lem Station,8600203,,""Jernbanegade, 6940 Lem"",Regionaltog,Den vestjyske længdebane,1875-08-08T00:00:00Z,56.025,8.3859"
+"http://www.wikidata.org/entity/Q12324241,Lemvig Station,8604817,,""Banegårdsvej 2, 7620 Lemvig"",,Lemvigbanen,1879-07-20T00:00:00Z,56.5469,8.29972"
+"http://www.wikidata.org/entity/Q12324456,Lille Skensved Station,8600802,,""Ved Banen 1, 4623 Lille Skensved"",Regionaltog,Lille Syd,1908-01-01T00:00:00Z,55.5114,12.1403"
+http://www.wikidata.org/entity/Q12324473,Lilleheden Station,8601824,,,,Hirtshalsbanen,1940-05-01T00:00:00Z,57.5852,9.97633
+"http://www.wikidata.org/entity/Q12324548,Lindholm Station,8600116,,""Lindholm Nærbanevej 1, 9400 Nørresundby"",Regionaltog,Vendsysselbanen,2002-12-14T00:00:00Z,57.0667,9.90528"
+http://www.wikidata.org/entity/Q12324766,Ll. Kregme Trinbræt,,,,,Frederiksværkbanen,1964-01-01T00:00:00Z,55.9467,12.0342
+http://www.wikidata.org/entity/Q12324768,Lille Linde Station,8600906,,,,Østbanen,1930-05-15T00:00:00Z,55.336111111111,12.218888888889
+"http://www.wikidata.org/entity/Q12325108,Lundby Station,8600814,,""Banevej 3, 4750 Lundby"",Regionaltog,Sydbanen,1870-10-04T00:00:00Z,55.1104,11.8698"
+http://www.wikidata.org/entity/Q12325117,Lunde Station,8604719,,,,Varde-Nørre Nebel Jernbane,1903-01-01T00:00:00Z,55.75617,8.36401
+http://www.wikidata.org/entity/Q12325241,Lyngby Lokal Station,8603007,,,,Nærumbanen,1932-01-01T00:00:00Z,55.7739,12.5061
+"http://www.wikidata.org/entity/Q12325273,Lyngs Station,8600395,,""Rosenallé 3, 7790 Thyholm"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.66437,8.45073"
+http://www.wikidata.org/entity/Q12325303,Lystrup Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1877-12-01T00:00:00Z,56.23085,10.23471
+http://www.wikidata.org/entity/Q12325303,Lystrup Station,,Aarhus Letbane,,Linje L2,Grenaabanen,1877-12-01T00:00:00Z,56.23085,10.23471
+http://www.wikidata.org/entity/Q12325303,Lystrup Station,,Aarhus Letbane,,Linje L1,Den indre strækning,1877-12-01T00:00:00Z,56.23085,10.23471
+http://www.wikidata.org/entity/Q12325303,Lystrup Station,,Aarhus Letbane,,Linje L2,Den indre strækning,1877-12-01T00:00:00Z,56.23085,10.23471
+http://www.wikidata.org/entity/Q12325371,Løftgård Station,8604720,,,,Varde-Nørre Nebel Jernbane,1945-01-01T00:00:00Z,55.7294,8.35292
+http://www.wikidata.org/entity/Q12325389,Løgten Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1877-12-01T00:00:00Z,56.27578,10.31733
+http://www.wikidata.org/entity/Q12325832,Malling Station,,Aarhus Letbane,,Linje L2,Odderbanen,1884-06-19T00:00:00Z,56.03763,10.19132
+http://www.wikidata.org/entity/Q12326103,Marienlyst Station,8601623,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0433,12.6023
+http://www.wikidata.org/entity/Q12326581,Melby Station,,,,,Frederiksværkbanen,1916-12-22T00:00:00Z,55.9916,11.9717
+"http://www.wikidata.org/entity/Q12328030,Måløv Station,8600709,S-tog,""Måløv Stationsplads 10, 2760 Måløv"",Linje C,Frederikssundbanen,1879-06-17T00:00:00Z,55.7475,12.3175"
+http://www.wikidata.org/entity/Q12328039,Mårslet Station,,Aarhus Letbane,,Linje L2,Odderbanen,1884-01-01T00:00:00Z,56.06867,10.16458
+http://www.wikidata.org/entity/Q12328043,Mårum Station,8601427,,,,Gribskovbanen,1880-01-20T00:00:00Z,56.0307,12.317
+http://www.wikidata.org/entity/Q12328040,Mårsø Station,,,,,Odsherredsbanen,1899-05-17T00:00:00Z,55.7233,11.6347
+http://www.wikidata.org/entity/Q12328105,Mølleparken Station,,Aarhus Letbane,,Linje L2,Odderbanen,1973-01-01T00:00:00Z,56.07268,10.15431
+http://www.wikidata.org/entity/Q12328131,Mørdrup Station,8600779,,,,Lille Nord,1934-01-01T00:00:00Z,56.00198,12.53193
+http://www.wikidata.org/entity/Q12328134,Mørke Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1877-12-01T00:00:00Z,56.33929,10.37583
+"http://www.wikidata.org/entity/Q12328143,Mørkøv Station,8600722,,""Jernbanevej 1, 4440 Mørkøv"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6545,11.5021"
+http://www.wikidata.org/entity/Q12328517,Nejrup Station,8604818,,,,Lemvigbanen,1899-07-22T00:00:00Z,56.5656,8.18694
+"http://www.wikidata.org/entity/Q12329072,Nivå Station,8600665,,""Niverødvej 4, 2990 Nivå"",Øresundstogtrafikken,Kystbanen,1897-08-02T00:00:00Z,55.933611,12.506389"
+http://www.wikidata.org/entity/Q12329337,Nr. Asmindrup Station,8603547,,,,Odsherredsbanen,1899-01-01T00:00:00Z,55.8831,11.6067
+http://www.wikidata.org/entity/Q12329380,Ny Hagested Station,8603543,,,,Odsherredsbanen,1899-05-17T00:00:00Z,55.7287,11.5944
+http://www.wikidata.org/entity/Q12329464,Nyled Station,8603550,,,,Odsherredsbanen,1933-01-01T00:00:00Z,55.9219,11.6556
+http://www.wikidata.org/entity/Q12329485,Nyrup Station,8602509,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.54229,11.6525
+"http://www.wikidata.org/entity/Q12329544,Nærum Station,8603009,,""Langebjerg 1, 2850 Nærum"",,Nærumbanen,1900-08-25T00:00:00Z,55.8139,12.5282"
+"http://www.wikidata.org/entity/Q12329579,Næstved Nord Station,8600793,,""Skovallé 4, 4700 Næstved"",Regionaltog,Lille Syd,1990-01-01T00:00:00Z,55.2482,11.786344444444"
+http://www.wikidata.org/entity/Q12329622,Nørgaardsvej Station,8603010,,,,Nærumbanen,2003-02-28T00:00:00Z,55.7708,12.5126
+"http://www.wikidata.org/entity/Q12329636,Nørre Alslev Station,8600821,,""Stationspladsen 3, 4840 Nørre Alslev"",Regionaltog,Sydbanen,1872-08-22T00:00:00Z,54.8965,11.8855"
+"http://www.wikidata.org/entity/Q12329690,Nørre Åby Station,8600503,,""Jernbanevej 4B, 5580 Nørre Aaby"",Regionaltog,Den fynske hovedbane,1865-01-01T00:00:00Z,55.46,9.87111"
+http://www.wikidata.org/entity/Q12329739,Nørrevænget Station,8601510,Aarhus Letbane,,Linje L2,Odderbanen,2008-01-01T00:00:00Z,56.09203,10.15159
+"http://www.wikidata.org/entity/Q12329840,Oddesund Nord Station,8600392,,""Hovedvejen, Oddesund, 7790 Thyholm"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.58261,8.54696"
+"http://www.wikidata.org/entity/Q12329953,Oksbøl Station,8604726,,""Østergade 17, 6840 Oksbøl"",,Varde-Nørre Nebel Jernbane,1903-01-01T00:00:00Z,55.62595,8.28368"
+http://www.wikidata.org/entity/Q12330643,Outrup Station,8604727,,,,Varde-Nørre Nebel Jernbane,1945-01-01T00:00:00Z,55.7172,8.3445
+"http://www.wikidata.org/entity/Q12331222,Pederstrup Station,8600562,,""Sønder Højrupvejen 42A, 5750 Ringe"",Regionaltog,Svendborgbanen,1876-07-12T00:00:00Z,55.2833,10.486"
+http://www.wikidata.org/entity/Q12332625,Pårup Station,8601429,,,,Gribskovbanen,1896-05-14T00:00:00Z,56.1008,12.3014
+http://www.wikidata.org/entity/Q12332803,Ramme Station,8604819,,,,Lemvigbanen,1879-07-20T00:00:00Z,56.4889,8.21028
+http://www.wikidata.org/entity/Q12332992,Ravnholm Station,8603011,,,,Nærumbanen,1900-08-25T00:00:00Z,55.8022,12.52
+"http://www.wikidata.org/entity/Q12333144,Regstrup Station,8600720,,""Hovedgaden 111, 4420 Regstrup"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6775,11.6126"
+"http://www.wikidata.org/entity/Q12333164,Rejsby Station,8600425,,""Kogsvej 32B, Rejsby, 6780 Skærbæk"",Regionaltog,Bramming-Tønder-banen,1887-11-15T00:00:00Z,55.23046,8.732"
+"http://www.wikidata.org/entity/Q12333396,Ribe Nørremark Station,8600436,,""Skyttevej 2, 6760 Ribe"",Regionaltog,Bramming-Tønder-banen,1985-01-01T00:00:00Z,55.33974,8.77587"
+http://www.wikidata.org/entity/Q12333500,Rimmen Station,8604113,,,,Skagensbanen,1890-01-01T00:00:00Z,57.504925,10.4451
+http://www.wikidata.org/entity/Q12333763,Rosenhøj Station,,Aarhus Letbane,,Linje L2,Odderbanen,1972-01-01T00:00:00Z,56.1169,10.1472
+http://www.wikidata.org/entity/Q12333827,Roskilde Vest Station,,,,Regionaltog,Nordvestbanen,,55.6201,12.0554
+http://www.wikidata.org/entity/Q12333883,Rude Havvej Station,8601522,Aarhus Letbane,,Linje L2,Odderbanen,1982-01-01T00:00:00Z,55.98334,10.15406
+"http://www.wikidata.org/entity/Q12333893,Rudme Station,8600564,,""Rudmevej 124, 5750 Ringe"",Regionaltog,Svendborgbanen,1876-07-12T00:00:00Z,55.1986,10.4872"
+http://www.wikidata.org/entity/Q12343746,Vejby Station,8601439,,,,Gribskovbanen,1924-07-18T00:00:00Z,56.0627,12.136
+"http://www.wikidata.org/entity/Q12343904,Viby Sjælland Station,8600615,,""Søndergade 2, 4130 Viby Sjælland"",Regionaltog,Vestbanen,1859-09-01T00:00:00Z,55.549547222222,12.024377777778"
+http://www.wikidata.org/entity/Q12343913,Victoria Street Station,8604828,,,,Lemvigbanen,1923-11-13T00:00:00Z,56.5773,8.14328
+"http://www.wikidata.org/entity/Q12343999,Vinderup Station,8600187,,""Stationsvej 4C, 7830 Vinderup"",Regionaltog,Langå-Struer-banen,1865-11-11T00:00:00Z,56.48283,8.78315"
+"http://www.wikidata.org/entity/Q12344087,Vrå Station,8600013,,""Jernbanegade 7, 9760 Vrå"",Regionaltog,Vendsysselbanen,1871-01-01T00:00:00Z,57.35464,9.9421"
+http://www.wikidata.org/entity/Q12344084,Vrist Station,8604829,,,,Lemvigbanen,1961-02-01T00:00:00Z,56.60154,8.14847
+http://www.wikidata.org/entity/Q15280883,Ålsgårde Station,8601633,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.07501,12.53818
+"http://www.wikidata.org/entity/Q15280891,Visby Station,8600431,,""Høybergvej 67, Visby, 6261 Bredebro"",Regionaltog,Bramming-Tønder-banen,1887-11-15T00:00:00Z,55.0094,8.80203"
+http://www.wikidata.org/entity/Q15280889,Vrøgum Station,8604739,,,,Varde-Nørre Nebel Jernbane,1903-01-01T00:00:00Z,55.65379,8.29229
+"http://www.wikidata.org/entity/Q15280895,Tjæreborg Station,8600218,,""Tjæreborg Stationsvej 20, 6731 Tjæreborg"",Regionaltog,Lunderskov-Esbjerg-banen,1874-10-03T00:00:00Z,55.46654,8.57928"
+"http://www.wikidata.org/entity/Q15280893,Viby J Station,8600054,Aarhus Letbane,""Sønderhøj 5, 8260 Viby, Jylland"",Regionaltog,Odderbanen,1972-01-01T00:00:00Z,56.12187,10.15941"
+"http://www.wikidata.org/entity/Q15280893,Viby J Station,8600054,Aarhus Letbane,""Sønderhøj 5, 8260 Viby, Jylland"",Linje L2,Odderbanen,1972-01-01T00:00:00Z,56.12187,10.15941"
+"http://www.wikidata.org/entity/Q15280893,Viby J Station,8600054,Aarhus Letbane,""Sønderhøj 5, 8260 Viby, Jylland"",Regionaltog,Den østjyske længdebane,1972-01-01T00:00:00Z,56.12187,10.15941"
+"http://www.wikidata.org/entity/Q15280893,Viby J Station,8600054,Aarhus Letbane,""Sønderhøj 5, 8260 Viby, Jylland"",Linje L2,Den østjyske længdebane,1972-01-01T00:00:00Z,56.12187,10.15941"
+"http://www.wikidata.org/entity/Q15280896,Tim Station,8600198,,""Stationsvej 7, 6980 Tim"",Regionaltog,Den vestjyske længdebane,1875-03-31T00:00:00Z,56.1953,8.3058"
+"http://www.wikidata.org/entity/Q16856290,Carlsberg Station,8600631,S-tog,""Tapperitorvet 3, 1799 København V"",Linje H,Høje Taastrup-banen,2016-07-03T00:00:00Z,55.6636,12.5361"
+"http://www.wikidata.org/entity/Q16856290,Carlsberg Station,8600631,S-tog,""Tapperitorvet 3, 1799 København V"",Linje B,Høje Taastrup-banen,2016-07-03T00:00:00Z,55.6636,12.5361"
+"http://www.wikidata.org/entity/Q16856290,Carlsberg Station,8600631,S-tog,""Tapperitorvet 3, 1799 København V"",Linje Bx,Høje Taastrup-banen,2016-07-03T00:00:00Z,55.6636,12.5361"
+"http://www.wikidata.org/entity/Q16856290,Carlsberg Station,8600631,S-tog,""Tapperitorvet 3, 1799 København V"",Linje C,Høje Taastrup-banen,2016-07-03T00:00:00Z,55.6636,12.5361"
+http://www.wikidata.org/entity/Q17338657,Sprogøvej Station,8604831,,,,Lemvigbanen,1982-03-01T00:00:00Z,56.69219,8.2097
+http://www.wikidata.org/entity/Q20202461,Kalundborg Øst Station,8600728,,,,Nordvestbanen,,55.676525,11.120789
+http://www.wikidata.org/entity/Q21421258,Gødstrup Station,8600295,,,,Vejle-Holstebro-banen,2021-03-15T00:00:00Z,56.15866,8.89361
+http://www.wikidata.org/entity/Q28758798,Hessel Station,,Aarhus Letbane,,Linje L1,Grenaabanen,,56.38999,10.872036
+http://www.wikidata.org/entity/Q37930744,Favrholm Station,,,,,Frederiksværkbanen,2023-12-10T00:00:00Z,55.911089,12.314489
+http://www.wikidata.org/entity/Q37930744,Favrholm Station,,,,,Nordbanen,2023-12-10T00:00:00Z,55.911089,12.314489
+http://www.wikidata.org/entity/Q51128209,Orehoved Station,8601811,,,,Sydbanen,,54.938537,11.868182
+http://www.wikidata.org/entity/Q60626521,Thorsager Station,,Aarhus Letbane,,Linje L1,Grenaabanen,,56.35616,10.44818
+"http://www.wikidata.org/entity/Q64616142,Aabenraa Banegård,,,""Jernbanegade 2, 6200 Aabenraa"",,Aabenraabanen,,55.04913,9.41831"
+http://www.wikidata.org/entity/Q101208536,Jerne Station,8600217,,,,Lunderskov-Esbjerg-banen,,55.47445,8.48647
+"http://www.wikidata.org/entity/Q104130362,Vinge Station,8600713,S-tog,""Dalvejen, 3600 Frederikssund"",Linje C,Frederikssundbanen,,55.81023,12.11639"
+http://www.wikidata.org/entity/Q105754895,Hjørring Øst Station,8600008,,,,Vendsysselbanen,,57.454861111111,10.005777777778
+http://www.wikidata.org/entity/Q110015791,Troldebakkerne Station,8601424,,,,Gribskovbanen,,56.0329,12.189656
+"http://www.wikidata.org/entity/Q111336583,Hedehusgård Station,,,""Brandhøjgårdsvej 2, 2640 Hedehusene"",,Hedelands Veteranbane,,55.647604,12.187466"
+http://www.wikidata.org/entity/Q111336634,Sølund Station,,,,,Hedelands Veteranbane,,55.641101,12.18646
+http://www.wikidata.org/entity/Q111336667,Stenager Station,,,,,Hedelands Veteranbane,,55.637664,12.187281
+http://www.wikidata.org/entity/Q111336703,Brandhøj Station,,,,,Hedelands Veteranbane,,55.636271,12.18263
+http://www.wikidata.org/entity/Q111336732,Flintebjerg Station,,,,,Hedelands Veteranbane,,55.628756,12.172338
+http://www.wikidata.org/entity/Q111336751,Rubjerg Station,,,,,Hedelands Veteranbane,,55.624579,12.169788
+"http://www.wikidata.org/entity/Q111336808,Plantagen Station,,,""Stærkendevej 137, 4000 Roskilde"",,Hedelands Veteranbane,,55.619601,12.163851"
+"http://www.wikidata.org/entity/Q111336826,Fem Ege Station,,,""Løkkevej 21, 4000 Roskilde"",,Hedelands Veteranbane,,55.614915,12.159823"
+"http://www.wikidata.org/entity/Q111546117,Vanløse Station,8600703,S-tog,""Jernbane Allé 46, 2720 Vanløse"",Linje H,Frederikssundbanen,1898-06-15T00:00:00Z,55.687,12.4925"
+"http://www.wikidata.org/entity/Q111546117,Vanløse Station,8600703,S-tog,""Jernbane Allé 46, 2720 Vanløse"",Linje C,Frederikssundbanen,1898-06-15T00:00:00Z,55.687,12.4925"
+"http://www.wikidata.org/entity/Q111546117,Vanløse Station,8600703,S-tog,""Jernbane Allé 46, 2720 Vanløse"",Linje H,Frederiksbergbanen,1898-06-15T00:00:00Z,55.687,12.4925"
+"http://www.wikidata.org/entity/Q111546117,Vanløse Station,8600703,S-tog,""Jernbane Allé 46, 2720 Vanløse"",Linje C,Frederiksbergbanen,1898-06-15T00:00:00Z,55.687,12.4925"
+"http://www.wikidata.org/entity/Q111546134,Flintholm Station,,S-tog,""Flintholm Allé 55, 2000 Frederiksberg"",Linje H,Frederikssundbanen,,55.685833333333,12.499444444444"
+"http://www.wikidata.org/entity/Q111546134,Flintholm Station,,S-tog,""Flintholm Allé 55, 2000 Frederiksberg"",Linje F,Frederikssundbanen,,55.685833333333,12.499444444444"
+"http://www.wikidata.org/entity/Q111546134,Flintholm Station,,S-tog,""Flintholm Allé 55, 2000 Frederiksberg"",Linje C,Frederikssundbanen,,55.685833333333,12.499444444444"
+"http://www.wikidata.org/entity/Q111546134,Flintholm Station,,S-tog,""Flintholm Allé 55, 2000 Frederiksberg"",Linje H,Ringbanen,,55.685833333333,12.499444444444"
+"http://www.wikidata.org/entity/Q111546134,Flintholm Station,,S-tog,""Flintholm Allé 55, 2000 Frederiksberg"",Linje F,Ringbanen,,55.685833333333,12.499444444444"
+"http://www.wikidata.org/entity/Q111546134,Flintholm Station,,S-tog,""Flintholm Allé 55, 2000 Frederiksberg"",Linje C,Ringbanen,,55.685833333333,12.499444444444"
+"http://www.wikidata.org/entity/Q115670893,Sparkær Station,,,""Sparkær Mosevej 3, 8800 Viborg"",Regionaltog,Langå-Struer-banen,,56.475144,9.227664"
+http://www.wikidata.org/entity/Q12333922,Ruds Vedby Station,8602513,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.53992,11.37523
+"http://www.wikidata.org/entity/Q12334018,Ry Station,8600261,,""Klostervej 3, 8680 Ry"",Regionaltog,Skanderborg-Skjern-banen,1871-05-02T00:00:00Z,56.0908,9.75889"
+http://www.wikidata.org/entity/Q12334025,Ryde Station,8602635,,,,Lollandsbanen,1874-07-01T00:00:00Z,54.78512,11.37209
+"http://www.wikidata.org/entity/Q12334165,Rødvig Station,8601039,,""Østersøvej 6, 4673 Rødvig, Stevns"",,Østbanen,1879-07-01T00:00:00Z,55.25483,12.378765"
+http://www.wikidata.org/entity/Q12334186,Rønland Station,8604821,,,,Lemvigbanen,1955-08-23T00:00:00Z,56.6566,8.19468
+"http://www.wikidata.org/entity/Q12334364,Sakskøbing Station,8602641,,""Jernbanegade 2, 4990 Sakskøbing"",,Lollandsbanen,1874-07-01T00:00:00Z,54.7965,11.6353"
+http://www.wikidata.org/entity/Q12334411,Saltrup Station,8601431,,,,Gribskovbanen,1880-01-20T00:00:00Z,56.0545,12.3219
+http://www.wikidata.org/entity/Q12334696,Saunte Station,8601625,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0769,12.4849
+"http://www.wikidata.org/entity/Q12334859,Sejstrup Station,8600420,,""Kirkevej 80A, 6740 Bramming"",Regionaltog,Bramming-Tønder-banen,1875-05-01T00:00:00Z,55.435,8.7336"
+"http://www.wikidata.org/entity/Q12335206,Sig Station,8600211,,""Stationsvej 19, 6800 Varde"",Regionaltog,Den vestjyske længdebane,1875-08-08T00:00:00Z,55.66565,8.57717"
+"http://www.wikidata.org/entity/Q12335391,Sindal Station,8600007,,""Jernbanegade 8, 9870 Sindal"",Regionaltog,Vendsysselbanen,1871-01-01T00:00:00Z,57.4702,10.202"
+http://www.wikidata.org/entity/Q12335410,Sinkbæk Station,8604822,,,,Lemvigbanen,1879-07-20T00:00:00Z,56.4378,8.28389
+"http://www.wikidata.org/entity/Q12335469,Sjørring Station,8600403,,""Vorupørvej 60, 7700 Thisted"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.95188,8.58804"
+"http://www.wikidata.org/entity/Q12335509,Skalbjerg Station,8600508,,""Jernbanegade 2A, 5492 Vissenbjerg"",Regionaltog,Den fynske hovedbane,1960-01-01T00:00:00Z,55.366111111111,10.141111111111"
+http://www.wikidata.org/entity/Q12335613,Skellebjerg Station,8602515,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.5379,11.449
+http://www.wikidata.org/entity/Q12335647,Skibstrup Station,8601627,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.0783,12.5131
+"http://www.wikidata.org/entity/Q12335738,Skodsborg Station,8600661,,""Bøllemosevej 4, 2942 Skodsborg"",Øresundstogtrafikken,Kystbanen,1897-01-01T00:00:00Z,55.823611,12.571667"
+http://www.wikidata.org/entity/Q12335745,Skolebakken Station,,Aarhus Letbane,,Linje L1,Grenaabanen,,56.15713,10.21308
+http://www.wikidata.org/entity/Q12335745,Skolebakken Station,,Aarhus Letbane,,Linje L2,Grenaabanen,,56.15713,10.21308
+http://www.wikidata.org/entity/Q12335745,Skolebakken Station,,Aarhus Letbane,,Linje L1,Den indre strækning,,56.15713,10.21308
+http://www.wikidata.org/entity/Q12335745,Skolebakken Station,,Aarhus Letbane,,Linje L2,Den indre strækning,,56.15713,10.21308
+"http://www.wikidata.org/entity/Q12335950,Skærbæk Station,8600427,,""Jernbanegade 16, 6780 Skærbæk"",Regionaltog,Bramming-Tønder-banen,1887-01-01T00:00:00Z,55.15863,8.77167"
+http://www.wikidata.org/entity/Q12335965,Skævinge Station,,,,,Frederiksværkbanen,1897-05-31T00:00:00Z,55.9074,12.1497
+http://www.wikidata.org/entity/Q12335970,Skødstrup Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1877-12-01T00:00:00Z,56.26182,10.30307
+"http://www.wikidata.org/entity/Q12335980,Skørping Station,8600027,,""Sverriggårdsvej 3, 9520 Skørping"",InterCity,Randers-Aalborg Jernbane,1889-01-01T00:00:00Z,56.8358,9.88722"
+"http://www.wikidata.org/entity/Q12335980,Skørping Station,8600027,,""Sverriggårdsvej 3, 9520 Skørping"",Regionaltog,Randers-Aalborg Jernbane,1889-01-01T00:00:00Z,56.8358,9.88722"
+http://www.wikidata.org/entity/Q12336094,Slotspavillonen Station,8601433,,,,Gribskovbanen,,55.9426,12.311
+"http://www.wikidata.org/entity/Q12336198,Snedsted Station,8600401,,""Banegårdsvej 1, 7752 Snedsted"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.89214,8.52715"
+http://www.wikidata.org/entity/Q12336410,Sommerland Sjælland Station,8603555,,,,Odsherredsbanen,,55.8975,11.6035
+"http://www.wikidata.org/entity/Q12336571,Spangsbjerg Station,8600227,,""Spangsbjerg Møllevej, 6715 Esbjerg N"",Regionaltog,Den vestjyske længdebane,1985-01-01T00:00:00Z,55.4925,8.46083"
+http://www.wikidata.org/entity/Q12336796,St. Merløse Station,8602519,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.5449,11.7113
+http://www.wikidata.org/entity/Q12337114,Stenlille Station,8602517,,,,Tølløsebanen,1901-12-22T00:00:00Z,55.5391,11.59135
+http://www.wikidata.org/entity/Q12337113,Stenhus Station,,,,,Odsherredsbanen,1967-01-01T00:00:00Z,55.7153,11.6872
+"http://www.wikidata.org/entity/Q12337138,Stenstrup Station,8600566,,""Jernbanevej 1, 5771 Stenstrup"",Regionaltog,Svendborgbanen,1876-01-01T00:00:00Z,55.1311,10.5094"
+"http://www.wikidata.org/entity/Q12337139,Stenstrup Syd Station,8600567,,""Assensvej 113, 5771 Stenstrup"",Regionaltog,Svendborgbanen,1883-01-01T00:00:00Z,55.1203,10.5151"
+"http://www.wikidata.org/entity/Q12337319,Stoholm Station,8600180,,""Stationsvej, 7850 Stoholm"",Regionaltog,Langå-Struer-banen,1865-10-17T00:00:00Z,56.48744,9.15016"
+"http://www.wikidata.org/entity/Q12337355,Store Heddinge Station,8601045,,""Jernbanegade 10, 4660 Store Heddinge"",,Østbanen,1879-07-01T00:00:00Z,55.3098,12.386"
+http://www.wikidata.org/entity/Q12337427,Strande Station,8604823,,,,Lemvigbanen,1899-07-22T00:00:00Z,56.569,8.16056
+"http://www.wikidata.org/entity/Q12337570,Studsgård Station,8600277,,""Momhøjvej 7, Studsgård, 7400 Herning"",Regionaltog,Skanderborg-Skjern-banen,1881-10-18T00:00:00Z,56.09166,8.91058"
+http://www.wikidata.org/entity/Q12337609,Stæremosen Station,8601630,,,,Hornbækbanen,1988-05-29T00:00:00Z,56.1119,12.3189
+"http://www.wikidata.org/entity/Q12337636,Støvring Station,8600026,,""Borupsalle 1A, 9530 Støvring"",InterCity,Aalborg Nærbane,2003-01-01T00:00:00Z,56.8919,9.84389"
+"http://www.wikidata.org/entity/Q12337636,Støvring Station,8600026,,""Borupsalle 1A, 9530 Støvring"",Regionaltog,Aalborg Nærbane,2003-01-01T00:00:00Z,56.8919,9.84389"
+"http://www.wikidata.org/entity/Q12337866,Svebølle Station,8600724,,""Jernbanevej 13, 4470 Svebølle"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6523,11.2917"
+"http://www.wikidata.org/entity/Q12337867,Svejbæk Station,8600264,,""Julsøvænget 130, Svejbæk, 8600 Silkeborg"",Regionaltog,Skanderborg-Skjern-banen,1871-05-02T00:00:00Z,56.1328,9.63667"
+"http://www.wikidata.org/entity/Q12337999,Svendborg Vest Station,8600555,,""Skovsbovej 63, 5700 Svendborg"",Regionaltog,Svendborgbanen,1982-01-01T00:00:00Z,55.0558,10.5819"
+http://www.wikidata.org/entity/Q12338035,Svinninge Station,8603559,,,,Odsherredsbanen,1899-05-17T00:00:00Z,55.72343,11.46747
+http://www.wikidata.org/entity/Q12338269,Søborg Station,8601631,,,,Hornbækbanen,1916-01-01T00:00:00Z,56.1005,12.3339
+"http://www.wikidata.org/entity/Q12338336,Søllested Station,8602645,,""Jernbanegade 2, 4920 Søllested"",,Lollandsbanen,1874-07-01T00:00:00Z,54.811,11.2702"
+"http://www.wikidata.org/entity/Q12338811,Tarm Station,8600206,,""Stationsvej 4, 6880 Tarm"",Regionaltog,Den vestjyske længdebane,1875-08-08T00:00:00Z,55.9103,8.52028"
+http://www.wikidata.org/entity/Q12338868,Teglgårdsvej Station,8601836,,,,Hirtshalsbanen,2004-01-01T00:00:00Z,57.460144444444,9.9630194444444
+http://www.wikidata.org/entity/Q12339330,Thyborøn Kirke Station,8604824,,,,Lemvigbanen,1899-11-01T00:00:00Z,56.6981,8.20694
+"http://www.wikidata.org/entity/Q12339451,Tistrup Station,8600210,,""Jernbanegade 2, 6862 Tistrup"",Regionaltog,Den vestjyske længdebane,1875-08-08T00:00:00Z,55.7167,8.5981"
+http://www.wikidata.org/entity/Q12339449,Tisvildeleje Station,8601437,,,,Gribskovbanen,1924-07-18T00:00:00Z,56.0593,12.0778
+http://www.wikidata.org/entity/Q12339517,Tokkerup Station,8601053,,,,Østbanen,1879-07-01T00:00:00Z,55.283283333333,12.142852777778
+http://www.wikidata.org/entity/Q12339642,Torsøvej Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1877-12-01T00:00:00Z,56.20571,10.2283
+http://www.wikidata.org/entity/Q12339699,Tranbjerg Station,,Aarhus Letbane,,Linje L2,Odderbanen,1884-01-01T00:00:00Z,56.0967,10.1357
+"http://www.wikidata.org/entity/Q12339746,Trekroner Station,8600755,,""Trekronervej 20, 4000 Roskilde"",Regionaltog,Vestbanen,1988-05-28T00:00:00Z,55.6478,12.1319"
+"http://www.wikidata.org/entity/Q12339881,Tureby Station,8600806,,""Turebyvej 6, 4682 Tureby"",Regionaltog,Lille Syd,1870-10-04T00:00:00Z,55.373177777778,12.075911111111"
+"http://www.wikidata.org/entity/Q12340011,Tønder Station,8600432,Nahverkehrsverbund Schleswig-Holstein,""Jernbanegade 9, 6270 Tønder"",Regionaltog,Tønder-Tinglev-banen,1887-10-17T00:00:00Z,54.93326,8.8605"
+"http://www.wikidata.org/entity/Q12340011,Tønder Station,8600432,Nahverkehrsverbund Schleswig-Holstein,""Jernbanegade 9, 6270 Tønder"",RB 66 (Schleswig-Holstein),Tønder-Tinglev-banen,1887-10-17T00:00:00Z,54.93326,8.8605"
+"http://www.wikidata.org/entity/Q12340011,Tønder Station,8600432,Nahverkehrsverbund Schleswig-Holstein,""Jernbanegade 9, 6270 Tønder"",Regionaltog,Bramming-Tønder-banen,1887-10-17T00:00:00Z,54.93326,8.8605"
+"http://www.wikidata.org/entity/Q12340011,Tønder Station,8600432,Nahverkehrsverbund Schleswig-Holstein,""Jernbanegade 9, 6270 Tønder"",RB 66 (Schleswig-Holstein),Bramming-Tønder-banen,1887-10-17T00:00:00Z,54.93326,8.8605"
+"http://www.wikidata.org/entity/Q12340011,Tønder Station,8600432,Nahverkehrsverbund Schleswig-Holstein,""Jernbanegade 9, 6270 Tønder"",Regionaltog,Tønder-Højer banen,1887-10-17T00:00:00Z,54.93326,8.8605"
+"http://www.wikidata.org/entity/Q12340011,Tønder Station,8600432,Nahverkehrsverbund Schleswig-Holstein,""Jernbanegade 9, 6270 Tønder"",RB 66 (Schleswig-Holstein),Tønder-Højer banen,1887-10-17T00:00:00Z,54.93326,8.8605"
+"http://www.wikidata.org/entity/Q12340217,Ulstrup Station,8600171,,""Slotsvej, 8860 Ulstrup"",Regionaltog,Langå-Struer-banen,1863-01-01T00:00:00Z,56.39538,9.79271"
+"http://www.wikidata.org/entity/Q12340575,Varde Kaserne Station,8600249,,""Hedestien, 6800 Varde"",Regionaltog,Den vestjyske længdebane,,55.6121,8.47222"
+"http://www.wikidata.org/entity/Q12340578,Varde Nord Station,8600213,,""Skrænten 15, 6800 Varde"",Regionaltog,Den vestjyske længdebane,1984-08-13T00:00:00Z,55.6314,8.50056"
+http://www.wikidata.org/entity/Q12340576,Varde Vest Station,8604735,,,,Varde-Nørre Nebel Jernbane,1903-03-14T00:00:00Z,55.6246,8.47639
+http://www.wikidata.org/entity/Q12340588,Varpelev Station,8600907,,,,Østbanen,1881-06-19T00:00:00Z,55.352433333333,12.280058333333
+"http://www.wikidata.org/entity/Q12340645,Vejle Sygehus Station,8600281,,""Beriderbakken 1, 7100 Vejle"",InterCityLyn,Vejle-Holstebro-banen,1993-01-01T00:00:00Z,55.7149,9.53703"
+"http://www.wikidata.org/entity/Q12340645,Vejle Sygehus Station,8600281,,""Beriderbakken 1, 7100 Vejle"",Regionaltog,Vejle-Holstebro-banen,1993-01-01T00:00:00Z,55.7149,9.53703"
+http://www.wikidata.org/entity/Q12340834,Vestre Strandallé Station,,Aarhus Letbane,,Linje L1,Grenaabanen,1979-01-01T00:00:00Z,56.1942,10.2374
+http://www.wikidata.org/entity/Q12340864,Vibehus Trinbræt,,,,,Frederiksværkbanen,1916-01-01T00:00:00Z,55.9603,11.8731
+http://www.wikidata.org/entity/Q12340955,Vidstrup Station,8601843,,,,Hirtshalsbanen,1925-01-01T00:00:00Z,57.501902777778,9.9476
+http://www.wikidata.org/entity/Q12340962,Vig Station,,,,,Odsherredsbanen,1899-05-17T00:00:00Z,55.8526,11.5822
+http://www.wikidata.org/entity/Q12340960,Vigerslev Station,,,,,Øresundsbanen,,55.6636,12.4853
+http://www.wikidata.org/entity/Q12340960,Vigerslev Station,,,,,København-Køge-Ringsted-banen,,55.6636,12.4853
+http://www.wikidata.org/entity/Q12340960,Vigerslev Station,,,,,Godsforbindelsesbanen ved København,,55.6636,12.4853
+"http://www.wikidata.org/entity/Q12341006,Vildbjerg Station,8600298,,""Jernbane Allé, 7480 Vildbjerg"",InterCityLyn,Vejle-Holstebro-banen,1904-01-01T00:00:00Z,56.198,8.76859"
+"http://www.wikidata.org/entity/Q12341006,Vildbjerg Station,8600298,,""Jernbane Allé, 7480 Vildbjerg"",Regionaltog,Vejle-Holstebro-banen,1904-01-01T00:00:00Z,56.198,8.76859"
+http://www.wikidata.org/entity/Q12341055,Vilhelmsborg Station,,Aarhus Letbane,,Linje L2,Odderbanen,1989-01-01T00:00:00Z,56.06401,10.17907
+"http://www.wikidata.org/entity/Q12341149,Vipperød Station,8600718,,""Stationsvej 3, 4390 Vipperød"",Regionaltog,Nordvestbanen,1874-12-30T00:00:00Z,55.6669,11.7385"
+"http://www.wikidata.org/entity/Q12341693,Ydby Station,8600396,,""Ydby Stationsvej, Ydby, 7760 Hurup Thy"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.7143,8.39871"
+"http://www.wikidata.org/entity/Q12341870,Årslev Station,8600561,,""Stationsvej 10B, 5792 Årslev"",Regionaltog,Svendborgbanen,1876-07-12T00:00:00Z,55.3014,10.4658"
+http://www.wikidata.org/entity/Q12341938,Ø. Toreby Station,8602604,,,,Lollandsbanen,1996-09-01T00:00:00Z,54.7597,11.8361
+http://www.wikidata.org/entity/Q12341995,Øllegårdsvej Station,,Aarhus Letbane,,Linje L2,Odderbanen,1972-01-01T00:00:00Z,56.1144,10.1331
+"http://www.wikidata.org/entity/Q12341993,Ølgod Station,8600208,,""Jernbanegade 14, 6870 Ølgod"",Regionaltog,Den vestjyske længdebane,1875-08-08T00:00:00Z,55.811,8.62274"
+http://www.wikidata.org/entity/Q12342006,Ølsted Station,,,,,Frederiksværkbanen,1897-05-31T00:00:00Z,55.923,12.0731
+http://www.wikidata.org/entity/Q12342018,Ørby Station,8601443,,,,Gribskovbanen,1924-07-18T00:00:00Z,56.05569,12.16259
+http://www.wikidata.org/entity/Q12342048,Ørholm Station,8603013,,,,Nærumbanen,1900-08-25T00:00:00Z,55.7998,12.51
+http://www.wikidata.org/entity/Q12342083,Østbanetorvet Station,8600148,Aarhus Letbane,,Linje L1,Grenaabanen,1877-01-01T00:00:00Z,56.16275,10.21628
+http://www.wikidata.org/entity/Q12342111,Østerbjerg Trinbræt,,,,,Frederiksværkbanen,1916-01-01T00:00:00Z,55.9769,11.9139
+http://www.wikidata.org/entity/Q12343152,Thyborøn Station,8604825,,,,Lemvigbanen,,56.70402,8.21456
+"http://www.wikidata.org/entity/Q12343235,Tolne Station,8600006,,""Kirkevej 293, Tolne, 9870 Sindal"",Regionaltog,Vendsysselbanen,1873-01-01T00:00:00Z,57.485847222222,10.313533333333"
+http://www.wikidata.org/entity/Q12343287,Tornby Station,8601839,,,,Hirtshalsbanen,1925-01-01T00:00:00Z,57.532697222222,9.9494666666667
+"http://www.wikidata.org/entity/Q12343485,Tønder Nord Station,8600434,,""Kongevej 5, 6270 Tønder"",Regionaltog,Bramming-Tønder-banen,,54.9389,8.86111"
+"http://www.wikidata.org/entity/Q12343533,Uglev Station,8600393,,""Saturnvej, Uglev, 7790 Hvidbjerg"",Regionaltog,Thybanen,1882-01-01T00:00:00Z,56.61234,8.54153"
+"http://www.wikidata.org/entity/Q12343538,Ulfborg Station,8600197,,""Bredgade 6, 6990 Ulfborg"",Regionaltog,Den vestjyske længdebane,1875-03-31T00:00:00Z,56.27177,8.32515"
+http://www.wikidata.org/entity/Q12343686,Vallø Station,8600902,,,,Østbanen,1879-07-01T00:00:00Z,55.400277777778,12.192222222222
+http://www.wikidata.org/entity/Q47001118,Lolland Syd Station,,,,,,,54.679881403671,11.426908849319
