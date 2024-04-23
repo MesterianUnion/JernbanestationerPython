@@ -24,6 +24,11 @@
 #
 #
 #
+import time
+print("Starter TKinter Kortet.")
+for loading in "///////////////////////\n":
+    print(loading, end="")
+    time.sleep(0.06)
 import TKmap
 
 map = map.Map()
